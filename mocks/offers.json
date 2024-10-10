@@ -1,0 +1,107 @@
+[
+  {
+    "id": "PCTVIVTRAVELAME",
+    "name": "Vivo Travel Américas",
+    "displayName": "Travel Américas",
+    "price": {
+      "amount": 9.99,
+      "periodicity": "monthly"
+    },
+    "countriesCoveredNumber": 45,
+    "dataQuota": {
+      "max": 1,
+      "unit": "gigabyte",
+      "periodicity": "daily",
+      "unlimited": false
+    },
+    "voiceQuota": {
+      "max": 50,
+      "unit": "minute",
+      "periodicity": "daily",
+      "unlimited": false
+    },
+    "smsQuota": {
+      "max": 0,
+      "unit": "message",
+      "periodicity": "daily",
+      "unlimited": true
+    },
+    "minimumPeriod": {
+      "value": 12,
+      "unit": "month"
+    },
+    "cancellable": true,
+    "upgradeLevel": 1,
+    "isHighestPlan": false
+  },
+  {
+    "id": "PCTVIVTRAVELEUR",
+    "name": "Vivo Travel Europa",
+    "displayName": "Travel Europa",
+    "price": {
+      "amount": 19.99,
+      "periodicity": "monthly"
+    },
+    "countriesCoveredNumber": 50,
+    "dataQuota": {
+      "max": 1,
+      "unit": "gigabyte",
+      "periodicity": "daily",
+      "unlimited": false
+    },
+    "voiceQuota": {
+      "max": 50,
+      "unit": "minute",
+      "periodicity": "daily",
+      "unlimited": false
+    },
+    "smsQuota": {
+      "max": 0,
+      "unit": "message",
+      "periodicity": "daily",
+      "unlimited": true
+    },
+    "minimumPeriod": {
+      "value": 12,
+      "unit": "month"
+    },
+    "cancellable": true,
+    "upgradeLevel": 2,
+    "isHighestPlan": false
+  },
+  {
+    "id": "PCTVIVTRAVELMUN",
+    "name": "Vivo Travel Mundo",
+    "displayName": "Travel Mundo",
+    "price": {
+      "amount": 29.99,
+      "periodicity": "monthly"
+    },
+    "countriesCoveredNumber": 175,
+    "dataQuota": {
+      "max": 1,
+      "unit": "gigabyte",
+      "periodicity": "daily",
+      "unlimited": false
+    },
+    "voiceQuota": {
+      "max": 50,
+      "unit": "minute",
+      "periodicity": "daily",
+      "unlimited": false
+    },
+    "smsQuota": {
+      "max": 0,
+      "unit": "message",
+      "periodicity": "daily",
+      "unlimited": true
+    },
+    "minimumPeriod": {
+      "value": 12,
+      "unit": "month"
+    },
+    "cancellable": true,
+    "upgradeLevel": 3,
+    "isHighestPlan": true
+  }
+]

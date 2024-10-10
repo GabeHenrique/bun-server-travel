@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Vivo Selfie Premiere",
+    "phoneNumber": "+5511911115675",
+    "isPlanHolder": true,
+    "authorized": true,
+    "subscriptionType": "postpaid",
+    "dependents": [],
+    "travelIncludedPackage": [
+      {
+        "id": "CBOSEMPREMUN000",
+        "name": "Vivo Travel Mundo",
+        "displayName": "Travel Mundo",
+        "price": {
+          "amount": 29.99,
+          "periodicity": "monthly"
+        },
+        "countriesCoveredNumber": 175,
+        "dataQuota": {
+          "max": 1,
+          "unit": "gigabyte",
+          "periodicity": "daily",
+          "unlimited": false
+        },
+        "voiceQuota": {
+          "max": 50,
+          "unit": "minute",
+          "periodicity": "daily",
+          "unlimited": false
+        },
+        "smsQuota": {
+          "max": 0,
+          "unit": "message",
+          "periodicity": "daily",
+          "unlimited": true
+        },
+        "minimumPeriod": {
+          "value": 12,
+          "unit": "month"
+        },
+        "cancellable": false,
+        "upgradeLevel": 3,
+        "isHighestPlan": true
+      }
+    ],
+    "travelSubscribedPackage": null
+  },
+  {
+    "name": "Vivo Pré",
+    "phoneNumber": "+5511911115676",
+    "isPlanHolder": true,
+    "authorized": true,
+    "subscriptionType": "prepaid",
+    "dependents": [],
+    "travelIncludedPackage": []
+  }
+]

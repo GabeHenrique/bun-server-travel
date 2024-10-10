@@ -1,0 +1,12 @@
+[
+    {
+        "amount": 39.99,
+        "continent": "america_europe",
+        "periodicity": "daily"
+    },
+    {
+        "amount": 59.99,
+        "continent": "asia_africa_oceania",
+        "periodicity": "daily"
+    }
+]

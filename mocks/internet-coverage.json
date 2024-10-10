@@ -1,0 +1,6097 @@
+[
+    {
+      "includedIn": [
+        "CBOSEMPREAM0000",
+        "PCTVIVTRAVELAME"
+      ],
+      "countriesTitle": "américas",
+      "mostWantedTitle": "Cobertura nas Américas",
+      "countryList": [
+        {
+          "continent": "America",
+          "emoji": "🇦🇮",
+          "country": "Anguilla",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "anguilla",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇬",
+          "country": "Antígua e Barbuda",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "antigua e barbuda",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇹🇫",
+          "country": "Antilhas Francesas",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "antilhas francesas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇳🇱",
+          "country": "Antilhas Holandesas",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "antilhas holandesas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇷",
+          "country": "Argentina",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "argentina",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇼",
+          "country": "Aruba",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "aruba",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇸",
+          "country": "Bahamas",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "bahamas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇧",
+          "country": "Barbados",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "barbados",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇿",
+          "country": "Belize",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "belize",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇲",
+          "country": "Bermudas",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "bermudas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇴",
+          "country": "Bolívia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "bolivia",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇦",
+          "country": "Canadá",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "canada",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇱",
+          "country": "Chile",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "chile",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇴",
+          "country": "Colômbia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "colombia",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇷",
+          "country": "Costa Rica",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "costa rica",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇺",
+          "country": "Cuba",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "cuba",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇸🇻",
+          "country": "El Salvador",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "el salvador",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇪🇨",
+          "country": "Equador",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "equador",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇺🇸",
+          "country": "Estados Unidos",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "estados unidos",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇬🇩",
+          "country": "Granada",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "granada",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇬🇹",
+          "country": "Guatemala",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "guatemala",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇬🇾",
+          "country": "Guiana",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "guiana",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇭🇹",
+          "country": "Haiti",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "haiti",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇭🇳",
+          "country": "Honduras",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "honduras",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇰🇾",
+          "country": "Ilhas Cayman",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "ilhas cayman",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇩🇲",
+          "country": "Ilhas Dominica",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "ilhas dominica",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇲🇸",
+          "country": "Ilhas Montserrat",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "ilhas montserrat",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇹🇨",
+          "country": "Ilhas Turks e Caicos",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "ilhas turks e caicos",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇻🇬",
+          "country": "Ilhas Virgens Britanicas",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "ilhas virgens britanicas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇯🇲",
+          "country": "Jamaica",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "jamaica",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇲🇽",
+          "country": "México",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "mexico",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇳🇮",
+          "country": "Nicarágua",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "nicaragua",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇵🇦",
+          "country": "Panamá",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "panama",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇵🇾",
+          "country": "Paraguai",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "paraguai",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇵🇪",
+          "country": "Peru",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "peru",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇵🇷",
+          "country": "Porto Rico",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "porto rico",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇩🇴",
+          "country": "República Dominicana",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "republica dominicana",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇱🇨",
+          "country": "Santa Lúcia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "santa lucia",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇰🇳",
+          "country": "São Cristóvão e Névis",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "sao cristovao e nevis",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇻🇨",
+          "country": "St. Vincente e Granadinas",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "st. vincente e granadinas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇸🇷",
+          "country": "Suriname",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "suriname",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇹🇹",
+          "country": "Trinidad e Tobago",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "trinidad e tobago",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇺🇾",
+          "country": "Uruguai",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "uruguai",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇻🇪",
+          "country": "Venezuela",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "venezuela",
+          "normalizedContinentName": "america"
+        }
+      ],
+      "mostWantedCountries": [
+        {
+          "continent": "America",
+          "emoji": "🇺🇸",
+          "country": "Estados Unidos",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "estados unidos",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇷",
+          "country": "Argentina",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "argentina",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇺🇾",
+          "country": "Uruguai",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "uruguai",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇱",
+          "country": "Chile",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "chile",
+          "normalizedContinentName": "america"
+        }
+      ]
+    },
+    {
+      "includedIn": [
+        "YYYYY",
+        "PCTVIVTRAVELEUR"
+      ],
+      "countriesTitle": "europa",
+      "mostWantedTitle": "Cobertura na Europa",
+      "countryList": [
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇱",
+          "country": "Albânia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "albania",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇩🇪",
+          "country": "Alemanha",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "alemanha",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇩",
+          "country": "Andorra",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "andorra",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇲",
+          "country": "Armênia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "armenia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇹",
+          "country": "Áustria",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "austria",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇿",
+          "country": "Azerbaijão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "azerbaijao",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇧🇪",
+          "country": "Bélgica",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "belgica",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇧🇾",
+          "country": "Bielorrússia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "bielorrussia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇧🇦",
+          "country": "Bósnia e Herzegovina",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "bosnia e herzegovina",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇧🇬",
+          "country": "Bulgária",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "bulgaria",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇨🇾",
+          "country": "Chipre",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "chipre",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇭🇷",
+          "country": "Croácia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "croacia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇩🇰",
+          "country": "Dinamarca",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "dinamarca",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+          "country": "Escócia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "escocia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇸🇰",
+          "country": "Eslováquia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "eslovaquia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇸🇮",
+          "country": "Eslovênia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "eslovenia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇪🇸",
+          "country": "Espanha",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "espanha",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇪🇪",
+          "country": "Estônia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "estonia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇫🇮",
+          "country": "Finlândia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "finlandia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇫🇷",
+          "country": "França",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "franca",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇬🇪",
+          "country": "Geórgia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "georgia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇬🇮",
+          "country": "Gibraltar",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "gibraltar",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇬🇷",
+          "country": "Grécia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "grecia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇳🇱",
+          "country": "Holanda",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "holanda",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇭🇺",
+          "country": "Hungria",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "hungria",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇮🇲",
+          "country": "Ilha de Man",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "ilha de man",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "country": "Inglaterra",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "inglaterra",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇮🇪",
+          "country": "Irlanda",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "irlanda",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇮🇸",
+          "country": "Islândia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "islandia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇮🇹",
+          "country": "Itália",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "italia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇯🇪",
+          "country": "Jersey",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "jersey",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇱🇻",
+          "country": "Letônia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "letonia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇱🇮",
+          "country": "Liechtenstein",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "liechtenstein",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇱🇹",
+          "country": "Lituânia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "lituania",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇱🇺",
+          "country": "Luxemburgo",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "luxemburgo",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇲🇰",
+          "country": "Macedônia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "macedonia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇲🇹",
+          "country": "Malta",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "malta",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇲🇩",
+          "country": "Moldávia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "moldavia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇲🇪",
+          "country": "Montenegro",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "montenegro",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇳🇴",
+          "country": "Noruega",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "noruega",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇵🇱",
+          "country": "Polônia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "polonia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇵🇹",
+          "country": "Portugal",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "portugal",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇨🇿",
+          "country": "República Tcheca",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "republica tcheca",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇷🇴",
+          "country": "Romênia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "romenia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇷🇺",
+          "country": "Rússia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "russia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇸🇲",
+          "country": "San Marino",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "san marino",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇷🇸",
+          "country": "Sérvia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "servia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇸🇪",
+          "country": "Suécia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "suecia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇨🇭",
+          "country": "Suíça",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "suica",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇺🇦",
+          "country": "Ucrânia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "ucrania",
+          "normalizedContinentName": "europa"
+        }
+      ],
+      "mostWantedCountries": [
+        {
+          "continent": "Europa",
+          "emoji": "🇵🇹",
+          "country": "Portugal",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "portugal",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇫🇷",
+          "country": "França",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "franca",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇪🇸",
+          "country": "Espanha",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "espanha",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇩🇪",
+          "country": "Alemanha",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "alemanha",
+          "normalizedContinentName": "europa"
+        }
+      ]
+    },
+    {
+      "includedIn": [
+        "CBOSEMPREMUN000",
+        "PCTVIVTRAVELMUN"
+      ],
+      "countriesTitle": "mundo",
+      "mostWantedTitle": "Cobertura de Internet",
+      "countryList": [
+        {
+          "continent": "Asia",
+          "emoji": "🇦🇫",
+          "country": "Afeganistão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "afeganistao",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇿🇦",
+          "country": "África do Sul",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "africa do sul",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇱",
+          "country": "Albânia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "albania",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇩🇪",
+          "country": "Alemanha",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "alemanha",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇩",
+          "country": "Andorra",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "andorra",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇦🇴",
+          "country": "Angola",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "angola",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇮",
+          "country": "Anguilla",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "anguilla",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇬",
+          "country": "Antígua e Barbuda",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "antigua e barbuda",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇹🇫",
+          "country": "Antilhas Francesas",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "antilhas francesas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇳🇱",
+          "country": "Antilhas Holandesas",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "antilhas holandesas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇸🇦",
+          "country": "Arábia Saudita",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "arabia saudita",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇩🇿",
+          "country": "Argélia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "argelia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇷",
+          "country": "Argentina",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "argentina",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇲",
+          "country": "Armênia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "armenia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇼",
+          "country": "Aruba",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "aruba",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Oceania",
+          "emoji": "🇦🇺",
+          "country": "Austrália",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "australia",
+          "normalizedContinentName": "oceania"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇹",
+          "country": "Áustria",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "austria",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇿",
+          "country": "Azerbaijão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "azerbaijao",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇸",
+          "country": "Bahamas",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "bahamas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇧🇩",
+          "country": "Bangladesh",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "bangladesh",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇧",
+          "country": "Barbados",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "barbados",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇧🇭",
+          "country": "Barein",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "barein",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇧🇪",
+          "country": "Bélgica",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "belgica",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇿",
+          "country": "Belize",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "belize",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇧🇯",
+          "country": "Benin",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "benin",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇲",
+          "country": "Bermudas",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "bermudas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇧🇾",
+          "country": "Bielorrússia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "bielorrussia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇴",
+          "country": "Bolívia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "bolivia",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇧🇦",
+          "country": "Bósnia e Herzegovina",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "bosnia e herzegovina",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇧🇼",
+          "country": "Botswana",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "botswana",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇧🇳",
+          "country": "Brunei Darussalam",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "brunei darussalam",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇧🇬",
+          "country": "Bulgária",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "bulgaria",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇧🇫",
+          "country": "Burkina Faso",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "burkina faso",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇧🇹",
+          "country": "Butão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "butao",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇨🇻",
+          "country": "Cabo Verde",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "cabo verde",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇨🇲",
+          "country": "Camarões",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "camaroes",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇰🇭",
+          "country": "Camboja",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "camboja",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇦",
+          "country": "Canadá",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "canada",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇰🇿",
+          "country": "Casaquistão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "casaquistao",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇹🇩",
+          "country": "Chade",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "chade",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇱",
+          "country": "Chile",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "chile",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇨🇳",
+          "country": "China",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "china",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇨🇾",
+          "country": "Chipre",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "chipre",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇱🇰",
+          "country": "Cingapura",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "cingapura",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇴",
+          "country": "Colômbia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "colombia",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇰🇷",
+          "country": "Coréia do Sul",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "coreia do sul",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇨🇮",
+          "country": "Costa do Marfim",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "costa do marfim",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇷",
+          "country": "Costa Rica",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "costa rica",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇭🇷",
+          "country": "Croácia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "croacia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇺",
+          "country": "Cuba",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "cuba",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇩🇰",
+          "country": "Dinamarca",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "dinamarca",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇪🇬",
+          "country": "Egito",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "egito",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇸🇻",
+          "country": "El Salvador",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "el salvador",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇦🇪",
+          "country": "Emirados Árabes Unidos",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "emirados arabes unidos",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇪🇨",
+          "country": "Equador",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "equador",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+          "country": "Escócia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "escocia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇸🇰",
+          "country": "Eslováquia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "eslovaquia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇸🇮",
+          "country": "Eslovênia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "eslovenia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇪🇸",
+          "country": "Espanha",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "espanha",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇺🇸",
+          "country": "Estados Unidos",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "estados unidos",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇪🇪",
+          "country": "Estônia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "estonia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇪🇹",
+          "country": "Etiópia",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "etiopia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Oceania",
+          "emoji": "🇫🇯",
+          "country": "Fiji",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "fiji",
+          "normalizedContinentName": "oceania"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇵🇭",
+          "country": "Filipinas",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "filipinas",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇫🇮",
+          "country": "Finlândia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "finlandia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇫🇷",
+          "country": "França",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "franca",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇬🇲",
+          "country": "Gâmbia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "gambia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇬🇭",
+          "country": "Gana",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "gana",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇬🇪",
+          "country": "Geórgia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "georgia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇬🇮",
+          "country": "Gibraltar",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "gibraltar",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇬🇩",
+          "country": "Granada",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "granada",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇬🇷",
+          "country": "Grécia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "grecia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇬🇹",
+          "country": "Guatemala",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "guatemala",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇬🇾",
+          "country": "Guiana",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "guiana",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇬🇳",
+          "country": "Guiné",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "guine",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇭🇹",
+          "country": "Haiti",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "haiti",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇳🇱",
+          "country": "Holanda",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "holanda",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇭🇳",
+          "country": "Honduras",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "honduras",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇭🇰",
+          "country": "Hong Kong (China)",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "hong kong (china)",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇭🇺",
+          "country": "Hungria",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "hungria",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇮🇲",
+          "country": "Ilha de Man",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "ilha de man",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇰🇾",
+          "country": "Ilhas Cayman",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "ilhas cayman",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇩🇲",
+          "country": "Ilhas Dominica",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "ilhas dominica",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇲🇸",
+          "country": "Ilhas Montserrat",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "ilhas montserrat",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇹🇨",
+          "country": "Ilhas Turks e Caicos",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "ilhas turks e caicos",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇻🇬",
+          "country": "Ilhas Virgens Britanicas",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "ilhas virgens britanicas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇮🇳",
+          "country": "Índia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "india",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇮🇩",
+          "country": "Indonésia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "indonesia",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "country": "Inglaterra",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "inglaterra",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇮🇶",
+          "country": "Iraque",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "iraque",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇮🇪",
+          "country": "Irlanda",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "irlanda",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇬🇧",
+          "country": "Irlanda do Norte",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "irlanda do norte",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇮🇸",
+          "country": "Islândia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "islandia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇮🇱",
+          "country": "Israel",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "israel",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇮🇹",
+          "country": "Itália",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "italia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇯🇲",
+          "country": "Jamaica",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "jamaica",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇯🇵",
+          "country": "Japão",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "japao",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇯🇪",
+          "country": "Jersey",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "jersey",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇯🇴",
+          "country": "Jordânia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "jordania",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇰🇼",
+          "country": "Kuwait",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "kuwait",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇱🇦",
+          "country": "Laos",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "laos",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇱🇻",
+          "country": "Letônia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "letonia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇱🇧",
+          "country": "Líbano",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "libano",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇱🇷",
+          "country": "Libéria",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "liberia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇱🇾",
+          "country": "Líbia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "libia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇱🇮",
+          "country": "Liechtenstein",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "liechtenstein",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇱🇹",
+          "country": "Lituânia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "lituania",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇱🇺",
+          "country": "Luxemburgo",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "luxemburgo",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇲🇴",
+          "country": "Macau (China)",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "macau (china)",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇲🇰",
+          "country": "Macedônia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "macedonia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇲🇬",
+          "country": "Madagascar",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "madagascar",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇲🇾",
+          "country": "Malásia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "malasia",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇲🇼",
+          "country": "Malawi",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "malawi",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇲🇻",
+          "country": "Maldivas",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "maldivas",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇲🇱",
+          "country": "Mali",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "mali",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇲🇹",
+          "country": "Malta",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "malta",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇲🇦",
+          "country": "Marrocos",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "marrocos",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇲🇺",
+          "country": "Maurício",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "mauricio",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇲🇷",
+          "country": "Mauritânia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "mauritania",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇲🇽",
+          "country": "México",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "mexico",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇲🇲",
+          "country": "Mianmar",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "mianmar",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇲🇿",
+          "country": "Moçambique",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "mocambique",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇲🇩",
+          "country": "Moldávia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "moldavia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇲🇳",
+          "country": "Mongólia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "mongolia",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇲🇪",
+          "country": "Montenegro",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "montenegro",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇳🇦",
+          "country": "Namíbia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "namibia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇳🇮",
+          "country": "Nicarágua",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "nicaragua",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇳🇪",
+          "country": "Níger",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "niger",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇳🇬",
+          "country": "Nigéria",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "nigeria",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇳🇴",
+          "country": "Noruega",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "noruega",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Oceania",
+          "emoji": "🇳🇨",
+          "country": "Nova Caledonia",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "nova caledonia",
+          "normalizedContinentName": "oceania"
+        },
+        {
+          "continent": "Oceania",
+          "emoji": "🇳🇿",
+          "country": "Nova Zelândia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "nova zelandia",
+          "normalizedContinentName": "oceania"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇴🇲",
+          "country": "Omã",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "oma",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+          "country": "País de Gales",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "pais de gales",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇵🇸",
+          "country": "Palestina",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "palestina",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇵🇦",
+          "country": "Panamá",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "panama",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Oceania",
+          "emoji": "🇵🇬",
+          "country": "Papua Nova Guine",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "papua nova guine",
+          "normalizedContinentName": "oceania"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇵🇾",
+          "country": "Paraguai",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "paraguai",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇵🇪",
+          "country": "Peru",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "peru",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Oceania",
+          "emoji": "🇵🇫",
+          "country": "Polinésia Francesa",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "polinesia francesa",
+          "normalizedContinentName": "oceania"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇵🇱",
+          "country": "Polônia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "polonia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇵🇷",
+          "country": "Porto Rico",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "porto rico",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇵🇹",
+          "country": "Portugal",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "portugal",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇶🇦",
+          "country": "Qatar",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "qatar",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇰🇪",
+          "country": "Quênia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "quenia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇨🇩",
+          "country": "República Democrática do Congo",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "republica democratica do congo",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇩🇴",
+          "country": "República Dominicana",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "republica dominicana",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇨🇿",
+          "country": "República Tcheca",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "republica tcheca",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇷🇴",
+          "country": "Romênia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "romenia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇷🇼",
+          "country": "Ruanda",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "ruanda",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇷🇺",
+          "country": "Rússia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "russia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇸🇲",
+          "country": "San Marino",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "san marino",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇱🇨",
+          "country": "Santa Lúcia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "santa lucia",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇰🇳",
+          "country": "São Cristóvão e Névis",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "sao cristovao e nevis",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇸🇳",
+          "country": "Senegal",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "senegal",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇷🇸",
+          "country": "Sérvia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "servia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇸🇨",
+          "country": "Seychelles",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "seychelles",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇱🇰",
+          "country": "Sri Lanka",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "sri lanka",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇻🇨",
+          "country": "St. Vincente e Granadinas",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "st. vincente e granadinas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇸🇩",
+          "country": "Sudão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "sudao",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇸🇪",
+          "country": "Suécia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "suecia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇨🇭",
+          "country": "Suíça",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "suica",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇸🇷",
+          "country": "Suriname",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "suriname",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇹🇯",
+          "country": "Tadjiquistão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "tadjiquistao",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇹🇭",
+          "country": "Tailândia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "tailandia",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇹🇼",
+          "country": "Taiwan",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "taiwan",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇹🇿",
+          "country": "Tanzânia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "tanzania",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇹🇱",
+          "country": "Timor-Leste",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "timor-leste",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇹🇬",
+          "country": "Togo",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "togo",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇹🇹",
+          "country": "Trinidad e Tobago",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "trinidad e tobago",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇹🇳",
+          "country": "Tunísia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "tunisia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇹🇷",
+          "country": "Turquia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "turquia",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇺🇦",
+          "country": "Ucrânia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "ucrania",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇺🇬",
+          "country": "Uganda",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "uganda",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇺🇾",
+          "country": "Uruguai",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "uruguai",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇺🇿",
+          "country": "Uzbequistão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "uzbequistao",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇻🇪",
+          "country": "Venezuela",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "venezuela",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇻🇳",
+          "country": "Vietnã",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "vietna",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇿🇲",
+          "country": "Zâmbia",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "zambia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇿🇼",
+          "country": "Zimbábue",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "zimbabue",
+          "normalizedContinentName": "africa"
+        }
+      ],
+      "mostWantedCountries": [
+        {
+          "continent": "America",
+          "emoji": "🇺🇸",
+          "country": "Estados Unidos",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "estados unidos",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇵🇹",
+          "country": "Portugal",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "portugal",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇷",
+          "country": "Argentina",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "argentina",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇨🇳",
+          "country": "China",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "china",
+          "normalizedContinentName": "asia"
+        }
+      ]
+    },
+    {
+      "includedIn": [
+        "CBOSEMPREAMEU00",
+        "CBOSEMPREAM0000",
+        "PCTVIVTRAVELAME",
+        "YYYYY",
+        "PCTVIVTRAVELEUR"
+      ],
+      "countriesTitle": "américas e europa",
+      "mostWantedTitle": "Cobertura de Internet",
+      "countryList": [
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇱",
+          "country": "Albânia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "albania",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇩🇪",
+          "country": "Alemanha",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "alemanha",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇩",
+          "country": "Andorra",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "andorra",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇮",
+          "country": "Anguilla",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "anguilla",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇬",
+          "country": "Antígua e Barbuda",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "antigua e barbuda",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇹🇫",
+          "country": "Antilhas Francesas",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "antilhas francesas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇳🇱",
+          "country": "Antilhas Holandesas",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "antilhas holandesas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇷",
+          "country": "Argentina",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "argentina",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇲",
+          "country": "Armênia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "armenia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇼",
+          "country": "Aruba",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "aruba",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇹",
+          "country": "Áustria",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "austria",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇿",
+          "country": "Azerbaijão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "azerbaijao",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇸",
+          "country": "Bahamas",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "bahamas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇧",
+          "country": "Barbados",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "barbados",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇧🇪",
+          "country": "Bélgica",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "belgica",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇿",
+          "country": "Belize",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "belize",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇲",
+          "country": "Bermudas",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "bermudas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇧🇾",
+          "country": "Bielorrússia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "bielorrussia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇴",
+          "country": "Bolívia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "bolivia",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇧🇦",
+          "country": "Bósnia e Herzegovina",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "bosnia e herzegovina",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇧🇬",
+          "country": "Bulgária",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "bulgaria",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇦",
+          "country": "Canadá",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "canada",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇱",
+          "country": "Chile",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "chile",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇨🇾",
+          "country": "Chipre",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "chipre",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇴",
+          "country": "Colômbia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "colombia",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇷",
+          "country": "Costa Rica",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "costa rica",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇭🇷",
+          "country": "Croácia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "croacia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇺",
+          "country": "Cuba",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "cuba",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇩🇰",
+          "country": "Dinamarca",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "dinamarca",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇸🇻",
+          "country": "El Salvador",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "el salvador",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇪🇨",
+          "country": "Equador",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "equador",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+          "country": "Escócia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "escocia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇸🇰",
+          "country": "Eslováquia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "eslovaquia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇸🇮",
+          "country": "Eslovênia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "eslovenia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇪🇸",
+          "country": "Espanha",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "espanha",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇺🇸",
+          "country": "Estados Unidos",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "estados unidos",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇪🇪",
+          "country": "Estônia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "estonia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇫🇮",
+          "country": "Finlândia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "finlandia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇫🇷",
+          "country": "França",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "franca",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇬🇪",
+          "country": "Geórgia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "georgia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇬🇮",
+          "country": "Gibraltar",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "gibraltar",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇬🇩",
+          "country": "Granada",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "granada",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇬🇷",
+          "country": "Grécia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "grecia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇬🇹",
+          "country": "Guatemala",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "guatemala",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇬🇾",
+          "country": "Guiana",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "guiana",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇭🇹",
+          "country": "Haiti",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "haiti",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇳🇱",
+          "country": "Holanda",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "holanda",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇭🇳",
+          "country": "Honduras",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "honduras",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇭🇺",
+          "country": "Hungria",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "hungria",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇮🇲",
+          "country": "Ilha de Man",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "ilha de man",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇰🇾",
+          "country": "Ilhas Cayman",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "ilhas cayman",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇩🇲",
+          "country": "Ilhas Dominica",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "ilhas dominica",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇲🇸",
+          "country": "Ilhas Montserrat",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "ilhas montserrat",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇹🇨",
+          "country": "Ilhas Turks e Caicos",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "ilhas turks e caicos",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇻🇬",
+          "country": "Ilhas Virgens Britanicas",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "ilhas virgens britanicas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "country": "Inglaterra",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "inglaterra",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇮🇪",
+          "country": "Irlanda",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "irlanda",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇮🇸",
+          "country": "Islândia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "islandia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇮🇹",
+          "country": "Itália",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "italia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇯🇲",
+          "country": "Jamaica",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "jamaica",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇯🇪",
+          "country": "Jersey",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "jersey",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇱🇻",
+          "country": "Letônia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "letonia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇱🇮",
+          "country": "Liechtenstein",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "liechtenstein",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇱🇹",
+          "country": "Lituânia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "lituania",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇱🇺",
+          "country": "Luxemburgo",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "luxemburgo",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇲🇰",
+          "country": "Macedônia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "macedonia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇲🇹",
+          "country": "Malta",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "malta",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇲🇽",
+          "country": "México",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "mexico",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇲🇩",
+          "country": "Moldávia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "moldavia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇲🇪",
+          "country": "Montenegro",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "montenegro",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇳🇮",
+          "country": "Nicarágua",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "nicaragua",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇳🇴",
+          "country": "Noruega",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "noruega",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇵🇦",
+          "country": "Panamá",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "panama",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇵🇾",
+          "country": "Paraguai",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "paraguai",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇵🇪",
+          "country": "Peru",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "peru",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇵🇱",
+          "country": "Polônia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "polonia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇵🇷",
+          "country": "Porto Rico",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "porto rico",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇵🇹",
+          "country": "Portugal",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "portugal",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇩🇴",
+          "country": "República Dominicana",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "republica dominicana",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇨🇿",
+          "country": "República Tcheca",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "republica tcheca",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇷🇴",
+          "country": "Romênia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "romenia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇷🇺",
+          "country": "Rússia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "russia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇸🇲",
+          "country": "San Marino",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "san marino",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇱🇨",
+          "country": "Santa Lúcia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "santa lucia",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇰🇳",
+          "country": "São Cristóvão e Névis",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "sao cristovao e nevis",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇷🇸",
+          "country": "Sérvia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "servia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇻🇨",
+          "country": "St. Vincente e Granadinas",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "st. vincente e granadinas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇸🇪",
+          "country": "Suécia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "suecia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇨🇭",
+          "country": "Suíça",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "suica",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇸🇷",
+          "country": "Suriname",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "suriname",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇹🇹",
+          "country": "Trinidad e Tobago",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "trinidad e tobago",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇺🇦",
+          "country": "Ucrânia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "ucrania",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇺🇾",
+          "country": "Uruguai",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "uruguai",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇻🇪",
+          "country": "Venezuela",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "venezuela",
+          "normalizedContinentName": "america"
+        }
+      ],
+      "mostWantedCountries": [
+        {
+          "continent": "America",
+          "emoji": "🇺🇸",
+          "country": "Estados Unidos",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "estados unidos",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇷",
+          "country": "Argentina",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "argentina",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇵🇹",
+          "country": "Portugal",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "portugal",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇫🇷",
+          "country": "França",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "franca",
+          "normalizedContinentName": "europa"
+        }
+      ]
+    },
+    {
+      "includedIn": [
+        "CBOSEMPREAM0000",
+        "PCTVIVTRAVELAME",
+        "CBOSEMPREMUN000",
+        "PCTVIVTRAVELMUN"
+      ],
+      "countriesTitle": "mundo",
+      "mostWantedTitle": "Cobertura de Internet",
+      "countryList": [
+        {
+          "continent": "Asia",
+          "emoji": "🇦🇫",
+          "country": "Afeganistão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "afeganistao",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇿🇦",
+          "country": "África do Sul",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "africa do sul",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇱",
+          "country": "Albânia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "albania",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇩🇪",
+          "country": "Alemanha",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "alemanha",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇩",
+          "country": "Andorra",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "andorra",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇦🇴",
+          "country": "Angola",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "angola",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇮",
+          "country": "Anguilla",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "anguilla",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇬",
+          "country": "Antígua e Barbuda",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "antigua e barbuda",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇹🇫",
+          "country": "Antilhas Francesas",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "antilhas francesas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇳🇱",
+          "country": "Antilhas Holandesas",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "antilhas holandesas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇸🇦",
+          "country": "Arábia Saudita",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "arabia saudita",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇩🇿",
+          "country": "Argélia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "argelia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇷",
+          "country": "Argentina",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "argentina",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇲",
+          "country": "Armênia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "armenia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇼",
+          "country": "Aruba",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "aruba",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Oceania",
+          "emoji": "🇦🇺",
+          "country": "Austrália",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "australia",
+          "normalizedContinentName": "oceania"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇹",
+          "country": "Áustria",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "austria",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇿",
+          "country": "Azerbaijão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "azerbaijao",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇸",
+          "country": "Bahamas",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "bahamas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇧🇩",
+          "country": "Bangladesh",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "bangladesh",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇧",
+          "country": "Barbados",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "barbados",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇧🇭",
+          "country": "Barein",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "barein",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇧🇪",
+          "country": "Bélgica",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "belgica",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇿",
+          "country": "Belize",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "belize",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇧🇯",
+          "country": "Benin",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "benin",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇲",
+          "country": "Bermudas",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "bermudas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇧🇾",
+          "country": "Bielorrússia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "bielorrussia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇴",
+          "country": "Bolívia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "bolivia",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇧🇦",
+          "country": "Bósnia e Herzegovina",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "bosnia e herzegovina",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇧🇼",
+          "country": "Botswana",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "botswana",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇧🇳",
+          "country": "Brunei Darussalam",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "brunei darussalam",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇧🇬",
+          "country": "Bulgária",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "bulgaria",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇧🇫",
+          "country": "Burkina Faso",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "burkina faso",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇧🇹",
+          "country": "Butão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "butao",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇨🇻",
+          "country": "Cabo Verde",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "cabo verde",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇨🇲",
+          "country": "Camarões",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "camaroes",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇰🇭",
+          "country": "Camboja",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "camboja",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇦",
+          "country": "Canadá",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "canada",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇰🇿",
+          "country": "Casaquistão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "casaquistao",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇹🇩",
+          "country": "Chade",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "chade",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇱",
+          "country": "Chile",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "chile",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇨🇳",
+          "country": "China",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "china",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇨🇾",
+          "country": "Chipre",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "chipre",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇱🇰",
+          "country": "Cingapura",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "cingapura",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇴",
+          "country": "Colômbia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "colombia",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇰🇷",
+          "country": "Coréia do Sul",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "coreia do sul",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇨🇮",
+          "country": "Costa do Marfim",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "costa do marfim",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇷",
+          "country": "Costa Rica",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "costa rica",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇭🇷",
+          "country": "Croácia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "croacia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇺",
+          "country": "Cuba",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "cuba",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇩🇰",
+          "country": "Dinamarca",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "dinamarca",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇪🇬",
+          "country": "Egito",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "egito",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇸🇻",
+          "country": "El Salvador",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "el salvador",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇦🇪",
+          "country": "Emirados Árabes Unidos",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "emirados arabes unidos",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇪🇨",
+          "country": "Equador",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "equador",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+          "country": "Escócia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "escocia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇸🇰",
+          "country": "Eslováquia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "eslovaquia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇸🇮",
+          "country": "Eslovênia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "eslovenia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇪🇸",
+          "country": "Espanha",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "espanha",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇺🇸",
+          "country": "Estados Unidos",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "estados unidos",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇪🇪",
+          "country": "Estônia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "estonia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇪🇹",
+          "country": "Etiópia",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "etiopia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Oceania",
+          "emoji": "🇫🇯",
+          "country": "Fiji",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "fiji",
+          "normalizedContinentName": "oceania"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇵🇭",
+          "country": "Filipinas",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "filipinas",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇫🇮",
+          "country": "Finlândia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "finlandia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇫🇷",
+          "country": "França",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "franca",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇬🇲",
+          "country": "Gâmbia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "gambia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇬🇭",
+          "country": "Gana",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "gana",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇬🇪",
+          "country": "Geórgia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "georgia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇬🇮",
+          "country": "Gibraltar",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "gibraltar",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇬🇩",
+          "country": "Granada",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "granada",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇬🇷",
+          "country": "Grécia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "grecia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇬🇹",
+          "country": "Guatemala",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "guatemala",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇬🇾",
+          "country": "Guiana",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "guiana",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇬🇳",
+          "country": "Guiné",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "guine",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇭🇹",
+          "country": "Haiti",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "haiti",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇳🇱",
+          "country": "Holanda",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "holanda",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇭🇳",
+          "country": "Honduras",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "honduras",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇭🇰",
+          "country": "Hong Kong (China)",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "hong kong (china)",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇭🇺",
+          "country": "Hungria",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "hungria",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇮🇲",
+          "country": "Ilha de Man",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "ilha de man",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇰🇾",
+          "country": "Ilhas Cayman",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "ilhas cayman",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇩🇲",
+          "country": "Ilhas Dominica",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "ilhas dominica",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇲🇸",
+          "country": "Ilhas Montserrat",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "ilhas montserrat",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇹🇨",
+          "country": "Ilhas Turks e Caicos",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "ilhas turks e caicos",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇻🇬",
+          "country": "Ilhas Virgens Britanicas",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "ilhas virgens britanicas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇮🇳",
+          "country": "Índia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "india",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇮🇩",
+          "country": "Indonésia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "indonesia",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "country": "Inglaterra",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "inglaterra",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇮🇶",
+          "country": "Iraque",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "iraque",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇮🇪",
+          "country": "Irlanda",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "irlanda",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇬🇧",
+          "country": "Irlanda do Norte",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "irlanda do norte",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇮🇸",
+          "country": "Islândia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "islandia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇮🇱",
+          "country": "Israel",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "israel",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇮🇹",
+          "country": "Itália",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "italia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇯🇲",
+          "country": "Jamaica",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "jamaica",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇯🇵",
+          "country": "Japão",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "japao",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇯🇪",
+          "country": "Jersey",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "jersey",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇯🇴",
+          "country": "Jordânia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "jordania",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇰🇼",
+          "country": "Kuwait",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "kuwait",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇱🇦",
+          "country": "Laos",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "laos",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇱🇻",
+          "country": "Letônia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "letonia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇱🇧",
+          "country": "Líbano",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "libano",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇱🇷",
+          "country": "Libéria",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "liberia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇱🇾",
+          "country": "Líbia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "libia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇱🇮",
+          "country": "Liechtenstein",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "liechtenstein",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇱🇹",
+          "country": "Lituânia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "lituania",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇱🇺",
+          "country": "Luxemburgo",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "luxemburgo",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇲🇴",
+          "country": "Macau (China)",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "macau (china)",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇲🇰",
+          "country": "Macedônia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "macedonia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇲🇬",
+          "country": "Madagascar",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "madagascar",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇲🇾",
+          "country": "Malásia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "malasia",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇲🇼",
+          "country": "Malawi",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "malawi",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇲🇻",
+          "country": "Maldivas",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "maldivas",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇲🇱",
+          "country": "Mali",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "mali",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇲🇹",
+          "country": "Malta",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "malta",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇲🇦",
+          "country": "Marrocos",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "marrocos",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇲🇺",
+          "country": "Maurício",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "mauricio",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇲🇷",
+          "country": "Mauritânia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "mauritania",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇲🇽",
+          "country": "México",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "mexico",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇲🇲",
+          "country": "Mianmar",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "mianmar",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇲🇿",
+          "country": "Moçambique",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "mocambique",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇲🇩",
+          "country": "Moldávia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "moldavia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇲🇳",
+          "country": "Mongólia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "mongolia",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇲🇪",
+          "country": "Montenegro",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "montenegro",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇳🇦",
+          "country": "Namíbia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "namibia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇳🇮",
+          "country": "Nicarágua",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "nicaragua",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇳🇪",
+          "country": "Níger",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "niger",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇳🇬",
+          "country": "Nigéria",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "nigeria",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇳🇴",
+          "country": "Noruega",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "noruega",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Oceania",
+          "emoji": "🇳🇨",
+          "country": "Nova Caledonia",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "nova caledonia",
+          "normalizedContinentName": "oceania"
+        },
+        {
+          "continent": "Oceania",
+          "emoji": "🇳🇿",
+          "country": "Nova Zelândia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "nova zelandia",
+          "normalizedContinentName": "oceania"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇴🇲",
+          "country": "Omã",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "oma",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+          "country": "País de Gales",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "pais de gales",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇵🇸",
+          "country": "Palestina",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "palestina",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇵🇦",
+          "country": "Panamá",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "panama",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Oceania",
+          "emoji": "🇵🇬",
+          "country": "Papua Nova Guine",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "papua nova guine",
+          "normalizedContinentName": "oceania"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇵🇾",
+          "country": "Paraguai",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "paraguai",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇵🇪",
+          "country": "Peru",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "peru",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Oceania",
+          "emoji": "🇵🇫",
+          "country": "Polinésia Francesa",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "polinesia francesa",
+          "normalizedContinentName": "oceania"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇵🇱",
+          "country": "Polônia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "polonia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇵🇷",
+          "country": "Porto Rico",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "porto rico",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇵🇹",
+          "country": "Portugal",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "portugal",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇶🇦",
+          "country": "Qatar",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "qatar",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇰🇪",
+          "country": "Quênia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "quenia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇨🇩",
+          "country": "República Democrática do Congo",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "republica democratica do congo",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇩🇴",
+          "country": "República Dominicana",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "republica dominicana",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇨🇿",
+          "country": "República Tcheca",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "republica tcheca",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇷🇴",
+          "country": "Romênia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "romenia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇷🇼",
+          "country": "Ruanda",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "ruanda",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇷🇺",
+          "country": "Rússia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "russia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇸🇲",
+          "country": "San Marino",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "san marino",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇱🇨",
+          "country": "Santa Lúcia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "santa lucia",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇰🇳",
+          "country": "São Cristóvão e Névis",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "sao cristovao e nevis",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇸🇳",
+          "country": "Senegal",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "senegal",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇷🇸",
+          "country": "Sérvia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "servia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇸🇨",
+          "country": "Seychelles",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "seychelles",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇱🇰",
+          "country": "Sri Lanka",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "sri lanka",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇻🇨",
+          "country": "St. Vincente e Granadinas",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "st. vincente e granadinas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇸🇩",
+          "country": "Sudão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "sudao",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇸🇪",
+          "country": "Suécia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "suecia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇨🇭",
+          "country": "Suíça",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "suica",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇸🇷",
+          "country": "Suriname",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "suriname",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇹🇯",
+          "country": "Tadjiquistão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "tadjiquistao",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇹🇭",
+          "country": "Tailândia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "tailandia",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇹🇼",
+          "country": "Taiwan",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "taiwan",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇹🇿",
+          "country": "Tanzânia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "tanzania",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇹🇱",
+          "country": "Timor-Leste",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "timor-leste",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇹🇬",
+          "country": "Togo",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "togo",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇹🇹",
+          "country": "Trinidad e Tobago",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "trinidad e tobago",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇹🇳",
+          "country": "Tunísia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "tunisia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇹🇷",
+          "country": "Turquia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "turquia",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇺🇦",
+          "country": "Ucrânia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "ucrania",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇺🇬",
+          "country": "Uganda",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "uganda",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇺🇾",
+          "country": "Uruguai",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "uruguai",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇺🇿",
+          "country": "Uzbequistão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "uzbequistao",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇻🇪",
+          "country": "Venezuela",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "venezuela",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇻🇳",
+          "country": "Vietnã",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "vietna",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇿🇲",
+          "country": "Zâmbia",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "zambia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇿🇼",
+          "country": "Zimbábue",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "zimbabue",
+          "normalizedContinentName": "africa"
+        }
+      ],
+      "mostWantedCountries": [
+        {
+          "continent": "America",
+          "emoji": "🇺🇸",
+          "country": "Estados Unidos",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "estados unidos",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇵🇹",
+          "country": "Portugal",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "portugal",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇷",
+          "country": "Argentina",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "argentina",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇨🇳",
+          "country": "China",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "china",
+          "normalizedContinentName": "asia"
+        }
+      ]
+    },
+    {
+      "includedIn": [
+        "YYYYY",
+        "PCTVIVTRAVELEUR",
+        "CBOSEMPREMUN000",
+        "PCTVIVTRAVELMUN"
+      ],
+      "countriesTitle": "mundo",
+      "mostWantedTitle": "Cobertura de Internet",
+      "countryList": [
+        {
+          "continent": "Asia",
+          "emoji": "🇦🇫",
+          "country": "Afeganistão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "afeganistao",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇿🇦",
+          "country": "África do Sul",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "africa do sul",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇱",
+          "country": "Albânia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "albania",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇩🇪",
+          "country": "Alemanha",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "alemanha",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇩",
+          "country": "Andorra",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "andorra",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇦🇴",
+          "country": "Angola",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "angola",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇮",
+          "country": "Anguilla",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "anguilla",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇬",
+          "country": "Antígua e Barbuda",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "antigua e barbuda",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇹🇫",
+          "country": "Antilhas Francesas",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "antilhas francesas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇳🇱",
+          "country": "Antilhas Holandesas",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "antilhas holandesas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇸🇦",
+          "country": "Arábia Saudita",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "arabia saudita",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇩🇿",
+          "country": "Argélia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "argelia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇷",
+          "country": "Argentina",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "argentina",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇲",
+          "country": "Armênia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "armenia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇼",
+          "country": "Aruba",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "aruba",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Oceania",
+          "emoji": "🇦🇺",
+          "country": "Austrália",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "australia",
+          "normalizedContinentName": "oceania"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇹",
+          "country": "Áustria",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "austria",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇦🇿",
+          "country": "Azerbaijão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "azerbaijao",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇸",
+          "country": "Bahamas",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "bahamas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇧🇩",
+          "country": "Bangladesh",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "bangladesh",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇧",
+          "country": "Barbados",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "barbados",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇧🇭",
+          "country": "Barein",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "barein",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇧🇪",
+          "country": "Bélgica",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "belgica",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇿",
+          "country": "Belize",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "belize",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇧🇯",
+          "country": "Benin",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "benin",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇲",
+          "country": "Bermudas",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "bermudas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇧🇾",
+          "country": "Bielorrússia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "bielorrussia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇧🇴",
+          "country": "Bolívia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "bolivia",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇧🇦",
+          "country": "Bósnia e Herzegovina",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "bosnia e herzegovina",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇧🇼",
+          "country": "Botswana",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "botswana",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇧🇳",
+          "country": "Brunei Darussalam",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "brunei darussalam",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇧🇬",
+          "country": "Bulgária",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "bulgaria",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇧🇫",
+          "country": "Burkina Faso",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "burkina faso",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇧🇹",
+          "country": "Butão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "butao",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇨🇻",
+          "country": "Cabo Verde",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "cabo verde",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇨🇲",
+          "country": "Camarões",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "camaroes",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇰🇭",
+          "country": "Camboja",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "camboja",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇦",
+          "country": "Canadá",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "canada",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇰🇿",
+          "country": "Casaquistão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "casaquistao",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇹🇩",
+          "country": "Chade",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "chade",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇱",
+          "country": "Chile",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "chile",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇨🇳",
+          "country": "China",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "china",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇨🇾",
+          "country": "Chipre",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "chipre",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇱🇰",
+          "country": "Cingapura",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "cingapura",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇴",
+          "country": "Colômbia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "colombia",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇰🇷",
+          "country": "Coréia do Sul",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "coreia do sul",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇨🇮",
+          "country": "Costa do Marfim",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "costa do marfim",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇷",
+          "country": "Costa Rica",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "costa rica",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇭🇷",
+          "country": "Croácia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "croacia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇨🇺",
+          "country": "Cuba",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "cuba",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇩🇰",
+          "country": "Dinamarca",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "dinamarca",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇪🇬",
+          "country": "Egito",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "egito",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇸🇻",
+          "country": "El Salvador",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "el salvador",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇦🇪",
+          "country": "Emirados Árabes Unidos",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "emirados arabes unidos",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇪🇨",
+          "country": "Equador",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "equador",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+          "country": "Escócia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "escocia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇸🇰",
+          "country": "Eslováquia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "eslovaquia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇸🇮",
+          "country": "Eslovênia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "eslovenia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇪🇸",
+          "country": "Espanha",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "espanha",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇺🇸",
+          "country": "Estados Unidos",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "estados unidos",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇪🇪",
+          "country": "Estônia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "estonia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇪🇹",
+          "country": "Etiópia",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "etiopia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Oceania",
+          "emoji": "🇫🇯",
+          "country": "Fiji",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "fiji",
+          "normalizedContinentName": "oceania"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇵🇭",
+          "country": "Filipinas",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "filipinas",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇫🇮",
+          "country": "Finlândia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "finlandia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇫🇷",
+          "country": "França",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "franca",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇬🇲",
+          "country": "Gâmbia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "gambia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇬🇭",
+          "country": "Gana",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "gana",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇬🇪",
+          "country": "Geórgia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "georgia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇬🇮",
+          "country": "Gibraltar",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "gibraltar",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇬🇩",
+          "country": "Granada",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "granada",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇬🇷",
+          "country": "Grécia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "grecia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇬🇹",
+          "country": "Guatemala",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "guatemala",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇬🇾",
+          "country": "Guiana",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "guiana",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇬🇳",
+          "country": "Guiné",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "guine",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇭🇹",
+          "country": "Haiti",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "haiti",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇳🇱",
+          "country": "Holanda",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "holanda",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇭🇳",
+          "country": "Honduras",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "honduras",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇭🇰",
+          "country": "Hong Kong (China)",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "hong kong (china)",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇭🇺",
+          "country": "Hungria",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "hungria",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇮🇲",
+          "country": "Ilha de Man",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "ilha de man",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇰🇾",
+          "country": "Ilhas Cayman",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "ilhas cayman",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇩🇲",
+          "country": "Ilhas Dominica",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "ilhas dominica",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇲🇸",
+          "country": "Ilhas Montserrat",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "ilhas montserrat",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇹🇨",
+          "country": "Ilhas Turks e Caicos",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "ilhas turks e caicos",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇻🇬",
+          "country": "Ilhas Virgens Britanicas",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "ilhas virgens britanicas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇮🇳",
+          "country": "Índia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "india",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇮🇩",
+          "country": "Indonésia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "indonesia",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "country": "Inglaterra",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "inglaterra",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇮🇶",
+          "country": "Iraque",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "iraque",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇮🇪",
+          "country": "Irlanda",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "irlanda",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇬🇧",
+          "country": "Irlanda do Norte",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "irlanda do norte",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇮🇸",
+          "country": "Islândia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "islandia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇮🇱",
+          "country": "Israel",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "israel",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇮🇹",
+          "country": "Itália",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "italia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇯🇲",
+          "country": "Jamaica",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "jamaica",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇯🇵",
+          "country": "Japão",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "japao",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇯🇪",
+          "country": "Jersey",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "jersey",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇯🇴",
+          "country": "Jordânia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "jordania",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇰🇼",
+          "country": "Kuwait",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "kuwait",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇱🇦",
+          "country": "Laos",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "laos",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇱🇻",
+          "country": "Letônia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "letonia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇱🇧",
+          "country": "Líbano",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "libano",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇱🇷",
+          "country": "Libéria",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "liberia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇱🇾",
+          "country": "Líbia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "libia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇱🇮",
+          "country": "Liechtenstein",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "liechtenstein",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇱🇹",
+          "country": "Lituânia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "lituania",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇱🇺",
+          "country": "Luxemburgo",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "luxemburgo",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇲🇴",
+          "country": "Macau (China)",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "macau (china)",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇲🇰",
+          "country": "Macedônia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "macedonia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇲🇬",
+          "country": "Madagascar",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "madagascar",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇲🇾",
+          "country": "Malásia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "malasia",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇲🇼",
+          "country": "Malawi",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "malawi",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇲🇻",
+          "country": "Maldivas",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "maldivas",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇲🇱",
+          "country": "Mali",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "mali",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇲🇹",
+          "country": "Malta",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "malta",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇲🇦",
+          "country": "Marrocos",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "marrocos",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇲🇺",
+          "country": "Maurício",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "mauricio",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇲🇷",
+          "country": "Mauritânia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "mauritania",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇲🇽",
+          "country": "México",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "mexico",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇲🇲",
+          "country": "Mianmar",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "mianmar",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇲🇿",
+          "country": "Moçambique",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "mocambique",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇲🇩",
+          "country": "Moldávia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "moldavia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇲🇳",
+          "country": "Mongólia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "mongolia",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇲🇪",
+          "country": "Montenegro",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "montenegro",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇳🇦",
+          "country": "Namíbia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "namibia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇳🇮",
+          "country": "Nicarágua",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "nicaragua",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇳🇪",
+          "country": "Níger",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "niger",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇳🇬",
+          "country": "Nigéria",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "nigeria",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇳🇴",
+          "country": "Noruega",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "noruega",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Oceania",
+          "emoji": "🇳🇨",
+          "country": "Nova Caledonia",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "nova caledonia",
+          "normalizedContinentName": "oceania"
+        },
+        {
+          "continent": "Oceania",
+          "emoji": "🇳🇿",
+          "country": "Nova Zelândia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "nova zelandia",
+          "normalizedContinentName": "oceania"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇴🇲",
+          "country": "Omã",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "oma",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+          "country": "País de Gales",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "pais de gales",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇵🇸",
+          "country": "Palestina",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "palestina",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇵🇦",
+          "country": "Panamá",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "panama",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Oceania",
+          "emoji": "🇵🇬",
+          "country": "Papua Nova Guine",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "papua nova guine",
+          "normalizedContinentName": "oceania"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇵🇾",
+          "country": "Paraguai",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "paraguai",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇵🇪",
+          "country": "Peru",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "peru",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Oceania",
+          "emoji": "🇵🇫",
+          "country": "Polinésia Francesa",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "polinesia francesa",
+          "normalizedContinentName": "oceania"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇵🇱",
+          "country": "Polônia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "polonia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇵🇷",
+          "country": "Porto Rico",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "porto rico",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇵🇹",
+          "country": "Portugal",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "portugal",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇶🇦",
+          "country": "Qatar",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "qatar",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇰🇪",
+          "country": "Quênia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "quenia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇨🇩",
+          "country": "República Democrática do Congo",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "republica democratica do congo",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇩🇴",
+          "country": "República Dominicana",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "republica dominicana",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇨🇿",
+          "country": "República Tcheca",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "republica tcheca",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇷🇴",
+          "country": "Romênia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "romenia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇷🇼",
+          "country": "Ruanda",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "ruanda",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇷🇺",
+          "country": "Rússia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "russia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇸🇲",
+          "country": "San Marino",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "san marino",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇱🇨",
+          "country": "Santa Lúcia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "santa lucia",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇰🇳",
+          "country": "São Cristóvão e Névis",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "sao cristovao e nevis",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇸🇳",
+          "country": "Senegal",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "senegal",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇷🇸",
+          "country": "Sérvia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "servia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇸🇨",
+          "country": "Seychelles",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "seychelles",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇱🇰",
+          "country": "Sri Lanka",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "sri lanka",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇻🇨",
+          "country": "St. Vincente e Granadinas",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "st. vincente e granadinas",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇸🇩",
+          "country": "Sudão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "sudao",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇸🇪",
+          "country": "Suécia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "suecia",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇨🇭",
+          "country": "Suíça",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "suica",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇸🇷",
+          "country": "Suriname",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "suriname",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇹🇯",
+          "country": "Tadjiquistão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "tadjiquistao",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇹🇭",
+          "country": "Tailândia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "tailandia",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇹🇼",
+          "country": "Taiwan",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "taiwan",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇹🇿",
+          "country": "Tanzânia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "tanzania",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇹🇱",
+          "country": "Timor-Leste",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "timor-leste",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇹🇬",
+          "country": "Togo",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "togo",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇹🇹",
+          "country": "Trinidad e Tobago",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "trinidad e tobago",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇹🇳",
+          "country": "Tunísia",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "tunisia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇹🇷",
+          "country": "Turquia",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "turquia",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇺🇦",
+          "country": "Ucrânia",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "ucrania",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇺🇬",
+          "country": "Uganda",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "uganda",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇺🇾",
+          "country": "Uruguai",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "uruguai",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇺🇿",
+          "country": "Uzbequistão",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "uzbequistao",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇻🇪",
+          "country": "Venezuela",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "venezuela",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇻🇳",
+          "country": "Vietnã",
+          "dataAllowance": "500 MB",
+          "normalizedCountryName": "vietna",
+          "normalizedContinentName": "asia"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇿🇲",
+          "country": "Zâmbia",
+          "dataAllowance": "5 MB",
+          "normalizedCountryName": "zambia",
+          "normalizedContinentName": "africa"
+        },
+        {
+          "continent": "Africa",
+          "emoji": "🇿🇼",
+          "country": "Zimbábue",
+          "dataAllowance": "200 MB",
+          "normalizedCountryName": "zimbabue",
+          "normalizedContinentName": "africa"
+        }
+      ],
+      "mostWantedCountries": [
+        {
+          "continent": "America",
+          "emoji": "🇺🇸",
+          "country": "Estados Unidos",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "estados unidos",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Europa",
+          "emoji": "🇵🇹",
+          "country": "Portugal",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "portugal",
+          "normalizedContinentName": "europa"
+        },
+        {
+          "continent": "America",
+          "emoji": "🇦🇷",
+          "country": "Argentina",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "argentina",
+          "normalizedContinentName": "america"
+        },
+        {
+          "continent": "Asia",
+          "emoji": "🇨🇳",
+          "country": "China",
+          "dataAllowance": "1 GB",
+          "normalizedCountryName": "china",
+          "normalizedContinentName": "asia"
+        }
+      ]
+    }
+  ]

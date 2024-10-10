@@ -1,0 +1,538 @@
+[
+    {
+        "name": "Vivo Controle 6GB III Pln",
+        "phoneNumber": "+5511911115675",
+        "subscriptionType": "control",
+        "travelSubscribedPackage": null,
+        "travelIncludedPackage": [],
+        "isPlanHolder": true,
+        "authorized": true,
+        "dependents": []
+    },
+    {
+        "name": "Vivo Selfie 20GB PLN",
+        "phoneNumber": "+5511974063887",
+        "subscriptionType": "postpaid",
+        "travelSubscribedPackage": null,
+        "travelIncludedPackage": [
+            {
+                "id": "CBOSEMPREAM0000",
+                "name": "Vivo Travel Américas",
+                "displayName": "Travel Américas",
+                "price": {
+                    "amount": 0,
+                    "periodicity": "monthly"
+                },
+                "countriesCoveredNumber": 44,
+                "dataQuota": {
+                    "max": 1,
+                    "periodicity": "daily",
+                    "unit": "gigabyte",
+                    "unlimited": false
+                },
+                "voiceQuota": {
+                    "max": 50,
+                    "periodicity": "daily",
+                    "unit": "minute",
+                    "unlimited": false
+                },
+                "smsQuota": {
+                    "max": 0,
+                    "periodicity": "daily",
+                    "unit": "message",
+                    "unlimited": true
+                },
+                "minimumPeriod": {
+                    "unit": "month",
+                    "value": 12
+                },
+                "cancellable": false,
+                "upgradeLevel": 1,
+                "isHighestPlan": false
+            }
+        ],
+        "isPlanHolder": true,
+        "authorized": true,
+        "dependents": []
+    },
+    {
+        "name": "Vivo Selfie 20GB PLN",
+        "phoneNumber": "+5519971409252",
+        "subscriptionType": "postpaid",
+        "travelSubscribedPackage": null,
+        "travelIncludedPackage": [
+            {
+                "id": "CBOSEMPREAM0000",
+                "name": "Vivo Travel Américas",
+                "displayName": "Travel Américas",
+                "price": {
+                    "amount": 0,
+                    "periodicity": "monthly"
+                },
+                "countriesCoveredNumber": 44,
+                "dataQuota": {
+                    "max": 1,
+                    "periodicity": "daily",
+                    "unit": "gigabyte",
+                    "unlimited": false
+                },
+                "voiceQuota": {
+                    "max": 50,
+                    "periodicity": "daily",
+                    "unit": "minute",
+                    "unlimited": false
+                },
+                "smsQuota": {
+                    "max": 0,
+                    "periodicity": "daily",
+                    "unit": "message",
+                    "unlimited": true
+                },
+                "minimumPeriod": {
+                    "unit": "month",
+                    "value": 12
+                },
+                "cancellable": false,
+                "upgradeLevel": 1,
+                "isHighestPlan": false
+            }
+        ],
+        "isPlanHolder": true,
+        "authorized": true,
+        "dependents": []
+    },
+    {
+        "name": "Vivo Selfie - Amazon Prime - 20GB",
+        "phoneNumber": "+5511934761215",
+        "subscriptionType": "postpaid",
+        "travelSubscribedPackage": {
+            "id": "PCTVIVTRAVELEUR",
+            "name": "Vivo Travel Europa",
+            "displayName": "Travel Europa",
+            "price": {
+                "amount": 19.99,
+                "periodicity": "monthly"
+            },
+            "countriesCoveredNumber": 53,
+            "dataQuota": {
+                "max": 1,
+                "periodicity": "daily",
+                "unit": "gigabyte",
+                "unlimited": false
+            },
+            "voiceQuota": {
+                "max": 50,
+                "periodicity": "daily",
+                "unit": "minute",
+                "unlimited": false
+            },
+            "smsQuota": {
+                "max": 0,
+                "periodicity": "daily",
+                "unit": "message",
+                "unlimited": true
+            },
+            "minimumPeriod": {
+                "unit": "month",
+                "value": 12
+            },
+            "cancellable": true,
+            "upgradeLevel": 2,
+            "startDate": "2024-02-02T11:40:05.000Z",
+            "endDate": "2038-01-19T03:14:07.000Z",
+            "isHighestPlan": false
+        },
+        "travelIncludedPackage": [
+            {
+                "id": "CBOSEMPREAM0000",
+                "name": "Vivo Travel Américas",
+                "displayName": "Travel Américas",
+                "price": {
+                    "amount": 0,
+                    "periodicity": "monthly"
+                },
+                "countriesCoveredNumber": 44,
+                "dataQuota": {
+                    "max": 1,
+                    "periodicity": "daily",
+                    "unit": "gigabyte",
+                    "unlimited": false
+                },
+                "voiceQuota": {
+                    "max": 50,
+                    "periodicity": "daily",
+                    "unit": "minute",
+                    "unlimited": false
+                },
+                "smsQuota": {
+                    "max": 0,
+                    "periodicity": "daily",
+                    "unit": "message",
+                    "unlimited": true
+                },
+                "minimumPeriod": {
+                    "unit": "month",
+                    "value": 12
+                },
+                "cancellable": false,
+                "upgradeLevel": 1,
+                "isHighestPlan": false
+            }
+        ],
+        "isPlanHolder": true,
+        "authorized": true,
+        "dependents": []
+    },
+    {
+        "name": "Vivo Selfie Essencial 20GB",
+        "phoneNumber": "+5511950589702",
+        "subscriptionType": "postpaid",
+        "travelSubscribedPackage": {
+            "id": "PCTVIVTRAVELAME",
+            "name": "Vivo Travel Américas",
+            "displayName": "Travel Américas",
+            "price": {
+                "amount": 9.99,
+                "periodicity": "monthly"
+            },
+            "countriesCoveredNumber": 44,
+            "dataQuota": {
+                "max": 1,
+                "periodicity": "daily",
+                "unit": "gigabyte",
+                "unlimited": false
+            },
+            "voiceQuota": {
+                "max": 50,
+                "periodicity": "daily",
+                "unit": "minute",
+                "unlimited": false
+            },
+            "smsQuota": {
+                "max": 0,
+                "periodicity": "daily",
+                "unit": "message",
+                "unlimited": true
+            },
+            "minimumPeriod": {
+                "unit": "month",
+                "value": 12
+            },
+            "cancellable": true,
+            "upgradeLevel": 1,
+            "startDate": "2024-02-28T10:56:40.000Z",
+            "endDate": "2038-01-19T03:14:07.000Z",
+            "isHighestPlan": false
+        },
+        "travelIncludedPackage": [],
+        "isPlanHolder": true,
+        "authorized": true,
+        "dependents": []
+    },
+    {
+        "name": "Vivo Família 150GB",
+        "phoneNumber": "+5511933654300",
+        "subscriptionType": "postpaid",
+        "travelSubscribedPackage": {
+            "id": "PCTVIVTRAVELMUN",
+            "name": "Vivo Travel Mundo",
+            "displayName": "Travel Mundo",
+            "price": {
+                "amount": 29.99,
+                "periodicity": "monthly"
+            },
+            "countriesCoveredNumber": 181,
+            "dataQuota": {
+                "max": 1,
+                "periodicity": "daily",
+                "unit": "gigabyte",
+                "unlimited": false
+            },
+            "voiceQuota": {
+                "max": 50,
+                "periodicity": "daily",
+                "unit": "minute",
+                "unlimited": false
+            },
+            "smsQuota": {
+                "max": 0,
+                "periodicity": "daily",
+                "unit": "message",
+                "unlimited": true
+            },
+            "minimumPeriod": {
+                "unit": "month",
+                "value": 12
+            },
+            "cancellable": true,
+            "upgradeLevel": 3,
+            "startDate": "2024-01-30T23:34:08.000Z",
+            "endDate": "2038-01-19T03:14:07.000Z",
+            "isHighestPlan": true
+        },
+        "travelIncludedPackage": [
+            {
+                "id": "CBOSEMPREAMEU00",
+                "name": "Vivo Travel Américas e Europa",
+                "displayName": "Travel Américas e Europa",
+                "price": {
+                    "amount": 0,
+                    "periodicity": "monthly"
+                },
+                "countriesCoveredNumber": 97,
+                "dataQuota": {
+                    "max": 1,
+                    "periodicity": "daily",
+                    "unit": "gigabyte",
+                    "unlimited": false
+                },
+                "voiceQuota": {
+                    "max": 50,
+                    "periodicity": "daily",
+                    "unit": "minute",
+                    "unlimited": false
+                },
+                "smsQuota": {
+                    "max": 0,
+                    "periodicity": "daily",
+                    "unit": "message",
+                    "unlimited": true
+                },
+                "minimumPeriod": {
+                    "unit": "month",
+                    "value": 12
+                },
+                "cancellable": false,
+                "upgradeLevel": 2,
+                "isHighestPlan": false
+            }
+        ],
+        "isPlanHolder": true,
+        "authorized": true,
+        "dependents": [
+            {
+                "phoneNumber": "+5511950324300",
+                "travelSubscribedPackage": {
+                    "id": "PCTVIVTRAVELMUN",
+                    "name": "Vivo Travel Mundo",
+                    "displayName": "Travel Mundo",
+                    "price": {
+                        "amount": 29.99,
+                        "periodicity": "monthly"
+                    },
+                    "countriesCoveredNumber": 181,
+                    "dataQuota": {
+                        "max": 1,
+                        "periodicity": "daily",
+                        "unit": "gigabyte",
+                        "unlimited": false
+                    },
+                    "voiceQuota": {
+                        "max": 50,
+                        "periodicity": "daily",
+                        "unit": "minute",
+                        "unlimited": false
+                    },
+                    "smsQuota": {
+                        "max": 0,
+                        "periodicity": "daily",
+                        "unit": "message",
+                        "unlimited": true
+                    },
+                    "minimumPeriod": {
+                        "unit": "month",
+                        "value": 12
+                    },
+                    "cancellable": true,
+                    "upgradeLevel": 3,
+                    "startDate": "2022-12-06T16:41:42.000Z",
+                    "isHighestPlan": true
+                }
+            }
+        ]
+    },
+    {
+        "name": "_Vivo Família_60GB",
+        "phoneNumber": "+5541992877136",
+        "subscriptionType": "postpaid",
+        "travelSubscribedPackage": {
+            "id": "PCTVIVTRAVELMUN",
+            "name": "Vivo Travel Mundo",
+            "displayName": "Travel Mundo",
+            "price": {
+                "amount": 29.99,
+                "periodicity": "monthly"
+            },
+            "countriesCoveredNumber": 181,
+            "dataQuota": {
+                "max": 1,
+                "periodicity": "daily",
+                "unit": "gigabyte",
+                "unlimited": false
+            },
+            "voiceQuota": {
+                "max": 50,
+                "periodicity": "daily",
+                "unit": "minute",
+                "unlimited": false
+            },
+            "smsQuota": {
+                "max": 0,
+                "periodicity": "daily",
+                "unit": "message",
+                "unlimited": true
+            },
+            "minimumPeriod": {
+                "unit": "month",
+                "value": 12
+            },
+            "cancellable": true,
+            "upgradeLevel": 3,
+            "startDate": "2024-03-12T19:29:47.000Z",
+            "endDate": "2038-01-19T03:14:07.000Z",
+            "isHighestPlan": true
+        },
+        "travelIncludedPackage": [
+            {
+                "id": "CBOSEMPREAM0000",
+                "name": "Vivo Travel Américas",
+                "displayName": "Travel Américas",
+                "price": {
+                    "amount": 0,
+                    "periodicity": "monthly"
+                },
+                "countriesCoveredNumber": 44,
+                "dataQuota": {
+                    "max": 1,
+                    "periodicity": "daily",
+                    "unit": "gigabyte",
+                    "unlimited": false
+                },
+                "voiceQuota": {
+                    "max": 50,
+                    "periodicity": "daily",
+                    "unit": "minute",
+                    "unlimited": false
+                },
+                "smsQuota": {
+                    "max": 0,
+                    "periodicity": "daily",
+                    "unit": "message",
+                    "unlimited": true
+                },
+                "minimumPeriod": {
+                    "unit": "month",
+                    "value": 12
+                },
+                "cancellable": false,
+                "upgradeLevel": 1,
+                "isHighestPlan": false
+            }
+        ],
+        "isPlanHolder": true,
+        "authorized": true,
+        "dependents": []
+    },
+    {
+        "name": "Vivo Selfie - Amazon Prime - 20GB",
+        "phoneNumber": "+5516997412189",
+        "subscriptionType": "postpaid",
+        "travelSubscribedPackage": null,
+        "travelIncludedPackage": [
+            {
+                "id": "CBOSEMPREAM0000",
+                "name": "Vivo Travel Américas",
+                "displayName": "Travel Américas",
+                "price": {
+                    "amount": 0,
+                    "periodicity": "monthly"
+                },
+                "countriesCoveredNumber": 44,
+                "dataQuota": {
+                    "max": 1,
+                    "periodicity": "daily",
+                    "unit": "gigabyte",
+                    "unlimited": false
+                },
+                "voiceQuota": {
+                    "max": 50,
+                    "periodicity": "daily",
+                    "unit": "minute",
+                    "unlimited": false
+                },
+                "smsQuota": {
+                    "max": 0,
+                    "periodicity": "daily",
+                    "unit": "message",
+                    "unlimited": true
+                },
+                "minimumPeriod": {
+                    "unit": "month",
+                    "value": 12
+                },
+                "cancellable": false,
+                "upgradeLevel": 1,
+                "isHighestPlan": false
+            }
+        ],
+        "isPlanHolder": true,
+        "authorized": true,
+        "dependents": []
+    },
+    {
+        "name": "Vivo Selfie 40GB PLN",
+        "phoneNumber": "+5513998011270",
+        "subscriptionType": "postpaid",
+        "travelSubscribedPackage": null,
+        "travelIncludedPackage": [
+            {
+                "id": "CBOSEMPREAM0000",
+                "name": "Vivo Travel Américas",
+                "displayName": "Travel Américas",
+                "price": {
+                    "amount": 0,
+                    "periodicity": "monthly"
+                },
+                "countriesCoveredNumber": 44,
+                "dataQuota": {
+                    "max": 1,
+                    "periodicity": "daily",
+                    "unit": "gigabyte",
+                    "unlimited": false
+                },
+                "voiceQuota": {
+                    "max": 50,
+                    "periodicity": "daily",
+                    "unit": "minute",
+                    "unlimited": false
+                },
+                "smsQuota": {
+                    "max": 0,
+                    "periodicity": "daily",
+                    "unit": "message",
+                    "unlimited": true
+                },
+                "minimumPeriod": {
+                    "unit": "month",
+                    "value": 12
+                },
+                "cancellable": false,
+                "upgradeLevel": 1,
+                "isHighestPlan": false
+            }
+        ],
+        "isPlanHolder": true,
+        "authorized": true,
+        "dependents": []
+    },
+    {
+        "name": "Vivo Controle 12GB II",
+        "phoneNumber": "+5511917285543",
+        "subscriptionType": "control",
+        "travelSubscribedPackage": null,
+        "travelIncludedPackage": [],
+        "isPlanHolder": true,
+        "authorized": true,
+        "dependents": []
+    }
+]

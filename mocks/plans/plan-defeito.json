@@ -1,0 +1,147 @@
+[
+    {
+        "name": "Vivo Controle 4GB II",
+        "phoneNumber": "+5511937008248",
+        "subscriptionType": "control",
+        "travelSubscribedPackage": null,
+        "travelIncludedPackage": [],
+        "isPlanHolder": true,
+        "authorized": true,
+        "dependents": []
+    },
+    {
+        "name": "Vivo Controle 4GB II",
+        "phoneNumber": "+5511937334552",
+        "subscriptionType": "control",
+        "travelSubscribedPackage": null,
+        "travelIncludedPackage": [],
+        "isPlanHolder": true,
+        "authorized": true,
+        "dependents": []
+    },
+    {
+        "name": "Vivo Controle 4GB II",
+        "phoneNumber": "+5511934115860",
+        "subscriptionType": "control",
+        "travelSubscribedPackage": null,
+        "travelIncludedPackage": [],
+        "isPlanHolder": true,
+        "authorized": true,
+        "dependents": []
+    },
+    {
+        "name": "Básico Gerencial",
+        "phoneNumber": "+5511973786487",
+        "subscriptionType": "postpaid",
+        "travelSubscribedPackage": null,
+        "travelIncludedPackage": [
+            {
+                "id": "CBOSEMPREMUN000",
+                "name": "Vivo Travel Mundo",
+                "displayName": "Travel Mundo",
+                "price": {
+                    "amount": 0,
+                    "periodicity": "monthly"
+                },
+                "countriesCoveredNumber": 181,
+                "dataQuota": {
+                    "max": 1,
+                    "periodicity": "daily",
+                    "unit": "gigabyte",
+                    "unlimited": false
+                },
+                "voiceQuota": {
+                    "max": 50,
+                    "periodicity": "daily",
+                    "unit": "minute",
+                    "unlimited": false
+                },
+                "smsQuota": {
+                    "max": 0,
+                    "periodicity": "daily",
+                    "unit": "message",
+                    "unlimited": true
+                },
+                "minimumPeriod": {
+                    "unit": "month",
+                    "value": 12
+                },
+                "cancellable": false,
+                "upgradeLevel": 3,
+                "isHighestPlan": true
+            }
+        ],
+        "isPlanHolder": true,
+        "authorized": true,
+        "dependents": []
+    },
+    {
+        "name": "Vivo Controle 4GB II",
+        "phoneNumber": "+5511910929750",
+        "subscriptionType": "control",
+        "travelSubscribedPackage": null,
+        "travelIncludedPackage": [],
+        "isPlanHolder": true,
+        "authorized": true,
+        "dependents": []
+    },
+    {
+        "name": "Vivo V",
+        "phoneNumber": "+5511911115675",
+        "subscriptionType": "postpaid",
+        "travelSubscribedPackage": null,
+        "travelIncludedPackage": [
+            {
+                "id": "CBOSEMPREMUN000",
+                "name": "Vivo Travel Mundo",
+                "displayName": "Travel Mundo",
+                "price": {
+                    "amount": 0,
+                    "periodicity": "monthly"
+                },
+                "countriesCoveredNumber": 181,
+                "dataQuota": {
+                    "max": 1,
+                    "periodicity": "daily",
+                    "unit": "gigabyte",
+                    "unlimited": false
+                },
+                "voiceQuota": {
+                    "max": 50,
+                    "periodicity": "daily",
+                    "unit": "minute",
+                    "unlimited": false
+                },
+                "smsQuota": {
+                    "max": 0,
+                    "periodicity": "daily",
+                    "unit": "message",
+                    "unlimited": true
+                },
+                "minimumPeriod": {
+                    "unit": "month",
+                    "value": 12
+                },
+                "cancellable": false,
+                "upgradeLevel": 3,
+                "isHighestPlan": true
+            }
+        ],
+        "isPlanHolder": true,
+        "authorized": true,
+        "dependents": [
+            {
+                "phoneNumber": "+5511999339280",
+                "travelSubscribedPackage": null
+            },
+            {
+                "phoneNumber": "+5511937708136",
+                "travelSubscribedPackage": null
+            },
+            {
+                "phoneNumber": "+5511937679280",
+                "travelSubscribedPackage": null
+            }
+        ]
+    }
+]

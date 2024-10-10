@@ -1,0 +1,17 @@
+[
+    {
+        "amount": 0.19,
+        "type": "internet",
+        "unit": "megabyte"
+    },
+    {
+        "amount": 1.29,
+        "type": "call",
+        "unit": "minute"
+    },
+    {
+        "amount": 0.19,
+        "type": "sms",
+        "unit": "message"
+    }
+]

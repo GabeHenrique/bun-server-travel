@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Vivo Selfie HyperX",
+        "phoneNumber": "+5511911115675",
+        "isPlanHolder": true,
+        "authorized": true,
+        "subscriptionType": "postpaid",
+        "dependents": [
+            {
+                "phoneNumber": "+5511911115676"
+            }
+        ],
+        "travelIncludedPackage": [
+            {
+                "id": "CBOSEMPREAM0000",
+                "name": "Vivo Travel Américas",
+                "displayName": "Travel Américas",
+                "price": {
+                    "amount": 9.99,
+                    "periodicity": "monthly"
+                },
+                "countriesCoveredNumber": 45,
+                "dataQuota": {
+                    "max": 1,
+                    "unit": "gigabyte",
+                    "periodicity": "daily",
+                    "unlimited": false
+                },
+                "voiceQuota": {
+                    "max": 50,
+                    "unit": "minute",
+                    "periodicity": "daily",
+                    "unlimited": false
+                },
+                "smsQuota": {
+                    "max": 0,
+                    "unit": "message",
+                    "periodicity": "daily",
+                    "unlimited": true
+                },
+                "minimumPeriod": {
+                    "value": 12,
+                    "unit": "month"
+                },
+                "cancellable": false,
+                "upgradeLevel": 1
+            }
+        ]
+    },
+    {
+        "name": "Vivo Selfie Asus",
+        "phoneNumber": "+5511911115685",
+        "isPlanHolder": true,
+        "authorized": true,
+        "subscriptionType": "postpaid",
+        "dependents": [],
+        "travelIncludedPackage": []
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Básico Executivo",
+        "phoneNumber": "+5511911115675",
+        "subscriptionType": "postpaid",
+        "travelSubscribedPackage": {
+            "id": "PCTVIVTRAVELMUN",
+            "name": "Vivo Travel Mundo",
+            "displayName": "Travel Mundo",
+            "price": {
+                "amount": 29.99,
+                "periodicity": "monthly"
+            },
+            "countriesCoveredNumber": 175,
+            "dataQuota": {
+                "max": 1,
+                "periodicity": "daily",
+                "unit": "gigabyte",
+                "unlimited": false
+            },
+            "voiceQuota": {
+                "max": 50,
+                "periodicity": "daily",
+                "unit": "minute",
+                "unlimited": false
+            },
+            "smsQuota": {
+                "max": 0,
+                "periodicity": "daily",
+                "unit": "message",
+                "unlimited": true
+            },
+            "minimumPeriod": {
+                "unit": "month",
+                "value": 12
+            },
+            "cancellable": false,
+            "upgradeLevel": 3,
+            "isHighestPlan": true
+        },
+        "travelIncludedPackage": [],
+        "isPlanHolder": true,
+        "authorized": true,
+        "dependents": []
+    }
+]
