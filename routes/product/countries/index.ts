@@ -1,8 +1,8 @@
-import { Router } from "bunrest/src/router/router";
-import products from "../../mocks/products.json";
+import {Router} from "bunrest/src/router/router";
+import countries from "../../../mocks/countries.json";
 
 export default (router: Router) => {
-  router.options("/products", async (_, res) => {
+  router.options("/product/countries/:productId", async (_, res) => {
     res.setHeader("Access-Control-Allow-Origin", "http://localhost:3004"); // Especifique o domínio
     res.setHeader("Access-Control-Allow-Credentials", "true"); // Permite o envio de credenciais (cookies, headers de autenticação, etc.)
     res.setHeader(
@@ -16,7 +16,7 @@ export default (router: Router) => {
     return res.status(204);
   });
 
-  router.get("products", async (_, res) => {
+  router.get("/product/countries/:productId", async (req, res) => {
     res.setHeader("Access-Control-Allow-Origin", "http://localhost:3004");
     res.setHeader("Access-Control-Allow-Credentials", "true");
     res.setHeader(
@@ -27,6 +27,11 @@ export default (router: Router) => {
       "Access-Control-Allow-Headers",
       "Content-Type, Authorization",
     );
-    return res.status(200).json(products);
+    const {productId} = req.params;
+    const result = countries.filter(
+      (productCountry) => productCountry.productId === productId
+    )[0].countryValues;
+
+    return res.status(200).json(result);
   });
 };

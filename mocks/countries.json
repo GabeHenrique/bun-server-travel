@@ -1,223 +1,680 @@
 [
   {
-    "emoji": "🇦🇮",
-    "country": "Anguilla",
-    "valueByGB": 12.9
+    "productId": "TRAVEL5GB",
+    "countryValues": [
+      {
+        "emoji": "🇦🇮",
+        "country": "Anguilla",
+        "price": 14.90
+      },
+      {
+        "emoji": "🇦🇬",
+        "country": "Antígua e Barbuda",
+        "price": 14.90
+      },
+      {
+        "emoji": "🇹🇫",
+        "country": "Antilhas Francesas",
+        "price": 14.90
+      },
+      {
+        "emoji": "🇳🇱",
+        "country": "Antilhas Holandesas",
+        "price": 14.90
+      },
+      {
+        "emoji": "🇦🇷",
+        "country": "Argentina",
+        "price": 14.90
+      },
+      {
+        "emoji": "🇦🇼",
+        "country": "Aruba",
+        "price": 14.90
+      },
+      {
+        "emoji": "🇧🇸",
+        "country": "Bahamas",
+        "price": 14.90
+      },
+      {
+        "emoji": "🇧🇧",
+        "country": "Barbados",
+        "price": 14.90
+      },
+      {
+        "emoji": "🇧🇿",
+        "country": "Belize",
+        "price": 14.90
+      },
+      {
+        "emoji": "🇧🇲",
+        "country": "Bermudas",
+        "price": 14.90
+      },
+      {
+        "emoji": "🇧🇴",
+        "country": "Bolívia",
+        "price": 14.90
+      },
+      {
+        "emoji": "🇨🇦",
+        "country": "Canadá",
+        "price": 14.90
+      },
+      {
+        "emoji": "🇨🇱",
+        "country": "Chile",
+        "price": 14.90
+      },
+      {
+        "emoji": "🇨🇴",
+        "country": "Colômbia",
+        "price": 14.90
+      },
+      {
+        "emoji": "🇨🇷",
+        "country": "Costa Rica",
+        "price": 14.90
+      },
+      {
+        "emoji": "🇨🇺",
+        "country": "Cuba",
+        "dataAllowance": "5 MB",
+        "price": 14.90
+      },
+      {
+        "emoji": "🇸🇻",
+        "country": "El Salvador",
+        "price": 14.90
+      },
+      {
+        "emoji": "🇪🇨",
+        "country": "Equador",
+        "price": 14.90
+      },
+      {
+        "emoji": "🇺🇸",
+        "country": "Estados Unidos",
+        "price": 19.90
+      },
+      {
+        "emoji": "🇬🇩",
+        "country": "Granada",
+        "price": 19.90
+      },
+      {
+        "emoji": "🇬🇹",
+        "country": "Guatemala",
+        "price": 19.90
+      },
+      {
+        "emoji": "🇬🇾",
+        "country": "Guiana",
+        "price": 19.90
+      },
+      {
+        "emoji": "🇭🇹",
+        "country": "Haiti",
+        "price": 19.90
+      },
+      {
+        "emoji": "🇭🇳",
+        "country": "Honduras",
+        "price": 19.90
+      },
+      {
+        "emoji": "🇰🇾",
+        "country": "Ilhas Cayman",
+        "price": 19.90
+      },
+      {
+        "emoji": "🇩🇲",
+        "country": "Ilhas Dominica",
+        "price": 19.90
+      },
+      {
+        "emoji": "🇲🇸",
+        "country": "Ilhas Montserrat",
+        "price": 19.90
+      },
+      {
+        "emoji": "🇹🇨",
+        "country": "Ilhas Turks e Caicos",
+        "price": 19.90
+      },
+      {
+        "emoji": "🇻🇬",
+        "country": "Ilhas Virgens Britanicas",
+        "price": 19.90
+      },
+      {
+        "emoji": "🇯🇲",
+        "country": "Jamaica",
+        "price": 19.90
+      },
+      {
+        "emoji": "🇲🇽",
+        "country": "México",
+        "price": 19.90
+      },
+      {
+        "emoji": "🇳🇮",
+        "country": "Nicarágua",
+        "price": 19.90
+      },
+      {
+        "emoji": "🇵🇦",
+        "country": "Panamá",
+        "price": 19.90
+      },
+      {
+        "emoji": "🇵🇾",
+        "country": "Paraguai",
+        "price": 19.90
+      },
+      {
+        "emoji": "🇵🇪",
+        "country": "Peru",
+        "price": 19.90
+      },
+      {
+        "emoji": "🇵🇷",
+        "country": "Porto Rico",
+        "price": 19.90
+      },
+      {
+        "emoji": "🇩🇴",
+        "country": "República Dominicana",
+        "price": 19.90
+      },
+      {
+        "emoji": "🇱🇨",
+        "country": "Santa Lúcia",
+        "price": 19.90
+      },
+      {
+        "emoji": "🇰🇳",
+        "country": "São Cristóvão e Névis",
+        "price": 19.90
+      },
+      {
+        "emoji": "🇻🇨",
+        "country": "St. Vincente e Granadinas",
+        "price": 19.90
+      },
+      {
+        "emoji": "🇸🇷",
+        "country": "Suriname",
+        "price": 12.9
+      },
+      {
+        "emoji": "🇹🇹",
+        "country": "Trinidad e Tobago",
+        "price": 12.9
+      },
+      {
+        "emoji": "🇺🇾",
+        "country": "Uruguai",
+        "price": 12.9
+      },
+      {
+        "emoji": "🇻🇪",
+        "country": "Venezuela",
+        "price": 12.9
+      }
+    ]
   },
   {
-    "emoji": "🇦🇬",
-    "country": "Antígua e Barbuda",
-    "valueByGB": 12.9
+    "productId": "TRAVEL10GB",
+    "countryValues": [
+      {
+        "emoji": "🇦🇮",
+        "country": "Anguilla",
+        "price": 29.90
+      },
+      {
+        "emoji": "🇦🇬",
+        "country": "Antígua e Barbuda",
+        "price": 29.90
+      },
+      {
+        "emoji": "🇹🇫",
+        "country": "Antilhas Francesas",
+        "price": 29.90
+      },
+      {
+        "emoji": "🇳🇱",
+        "country": "Antilhas Holandesas",
+        "price": 29.90
+      },
+      {
+        "emoji": "🇦🇷",
+        "country": "Argentina",
+        "price": 29.90
+      },
+      {
+        "emoji": "🇦🇼",
+        "country": "Aruba",
+        "price": 29.90
+      },
+      {
+        "emoji": "🇧🇸",
+        "country": "Bahamas",
+        "price": 29.90
+      },
+      {
+        "emoji": "🇧🇧",
+        "country": "Barbados",
+        "price": 29.90
+      },
+      {
+        "emoji": "🇧🇿",
+        "country": "Belize",
+        "price": 29.90
+      },
+      {
+        "emoji": "🇧🇲",
+        "country": "Bermudas",
+        "price": 29.90
+      },
+      {
+        "emoji": "🇧🇴",
+        "country": "Bolívia",
+        "price": 29.90
+      },
+      {
+        "emoji": "🇨🇦",
+        "country": "Canadá",
+        "price": 29.90
+      },
+      {
+        "emoji": "🇨🇱",
+        "country": "Chile",
+        "price": 29.90
+      },
+      {
+        "emoji": "🇨🇴",
+        "country": "Colômbia",
+        "price": 29.90
+      },
+      {
+        "emoji": "🇨🇷",
+        "country": "Costa Rica",
+        "price": 29.90
+      },
+      {
+        "emoji": "🇨🇺",
+        "country": "Cuba",
+        "dataAllowance": "5 MB",
+        "price": 29.90
+      },
+      {
+        "emoji": "🇸🇻",
+        "country": "El Salvador",
+        "price": 29.90
+      },
+      {
+        "emoji": "🇪🇨",
+        "country": "Equador",
+        "price": 29.90
+      },
+      {
+        "emoji": "🇺🇸",
+        "country": "Estados Unidos",
+        "price": 39.90
+      },
+      {
+        "emoji": "🇬🇩",
+        "country": "Granada",
+        "price": 39.90
+      },
+      {
+        "emoji": "🇬🇹",
+        "country": "Guatemala",
+        "price": 39.90
+      },
+      {
+        "emoji": "🇬🇾",
+        "country": "Guiana",
+        "price": 39.90
+      },
+      {
+        "emoji": "🇭🇹",
+        "country": "Haiti",
+        "price": 39.90
+      },
+      {
+        "emoji": "🇭🇳",
+        "country": "Honduras",
+        "price": 39.90
+      },
+      {
+        "emoji": "🇰🇾",
+        "country": "Ilhas Cayman",
+        "price": 39.90
+      },
+      {
+        "emoji": "🇩🇲",
+        "country": "Ilhas Dominica",
+        "price": 39.90
+      },
+      {
+        "emoji": "🇲🇸",
+        "country": "Ilhas Montserrat",
+        "price": 39.90
+      },
+      {
+        "emoji": "🇹🇨",
+        "country": "Ilhas Turks e Caicos",
+        "price": 39.90
+      },
+      {
+        "emoji": "🇻🇬",
+        "country": "Ilhas Virgens Britanicas",
+        "price": 39.90
+      },
+      {
+        "emoji": "🇯🇲",
+        "country": "Jamaica",
+        "price": 39.90
+      },
+      {
+        "emoji": "🇲🇽",
+        "country": "México",
+        "price": 39.90
+      },
+      {
+        "emoji": "🇳🇮",
+        "country": "Nicarágua",
+        "price": 39.90
+      },
+      {
+        "emoji": "🇵🇦",
+        "country": "Panamá",
+        "price": 39.90
+      },
+      {
+        "emoji": "🇵🇾",
+        "country": "Paraguai",
+        "price": 39.90
+      },
+      {
+        "emoji": "🇵🇪",
+        "country": "Peru",
+        "price": 49.90
+      },
+      {
+        "emoji": "🇵🇷",
+        "country": "Porto Rico",
+        "price": 49.90
+      },
+      {
+        "emoji": "🇩🇴",
+        "country": "República Dominicana",
+        "price": 49.90
+      },
+      {
+        "emoji": "🇱🇨",
+        "country": "Santa Lúcia",
+        "price": 49.90
+      },
+      {
+        "emoji": "🇰🇳",
+        "country": "São Cristóvão e Névis",
+        "price": 49.90
+      },
+      {
+        "emoji": "🇻🇨",
+        "country": "St. Vincente e Granadinas",
+        "price": 49.90
+      },
+      {
+        "emoji": "🇸🇷",
+        "country": "Suriname",
+        "price": 49.90
+      },
+      {
+        "emoji": "🇹🇹",
+        "country": "Trinidad e Tobago",
+        "price": 49.90
+      },
+      {
+        "emoji": "🇺🇾",
+        "country": "Uruguai",
+        "price": 49.90
+      },
+      {
+        "emoji": "🇻🇪",
+        "country": "Venezuela",
+        "price": 49.90
+      }
+    ]
   },
   {
-    "emoji": "🇹🇫",
-    "country": "Antilhas Francesas",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇳🇱",
-    "country": "Antilhas Holandesas",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇦🇷",
-    "country": "Argentina",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇦🇼",
-    "country": "Aruba",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇧🇸",
-    "country": "Bahamas",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇧🇧",
-    "country": "Barbados",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇧🇿",
-    "country": "Belize",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇧🇲",
-    "country": "Bermudas",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇧🇴",
-    "country": "Bolívia",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇨🇦",
-    "country": "Canadá",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇨🇱",
-    "country": "Chile",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇨🇴",
-    "country": "Colômbia",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇨🇷",
-    "country": "Costa Rica",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇨🇺",
-    "country": "Cuba",
-    "dataAllowance": "5 MB",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇸🇻",
-    "country": "El Salvador",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇪🇨",
-    "country": "Equador",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇺🇸",
-    "country": "Estados Unidos",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇬🇩",
-    "country": "Granada",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇬🇹",
-    "country": "Guatemala",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇬🇾",
-    "country": "Guiana",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇭🇹",
-    "country": "Haiti",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇭🇳",
-    "country": "Honduras",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇰🇾",
-    "country": "Ilhas Cayman",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇩🇲",
-    "country": "Ilhas Dominica",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇲🇸",
-    "country": "Ilhas Montserrat",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇹🇨",
-    "country": "Ilhas Turks e Caicos",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇻🇬",
-    "country": "Ilhas Virgens Britanicas",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇯🇲",
-    "country": "Jamaica",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇲🇽",
-    "country": "México",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇳🇮",
-    "country": "Nicarágua",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇵🇦",
-    "country": "Panamá",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇵🇾",
-    "country": "Paraguai",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇵🇪",
-    "country": "Peru",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇵🇷",
-    "country": "Porto Rico",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇩🇴",
-    "country": "República Dominicana",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇱🇨",
-    "country": "Santa Lúcia",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇰🇳",
-    "country": "São Cristóvão e Névis",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇻🇨",
-    "country": "St. Vincente e Granadinas",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇸🇷",
-    "country": "Suriname",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇹🇹",
-    "country": "Trinidad e Tobago",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇺🇾",
-    "country": "Uruguai",
-    "valueByGB": 12.9
-  },
-  {
-    "emoji": "🇻🇪",
-    "country": "Venezuela",
-    "valueByGB": 12.9
+    "productId": "TRAVEL20GB",
+    "countryValues": [
+      {
+        "emoji": "🇦🇮",
+        "country": "Anguilla",
+        "price": 69.90
+      },
+      {
+        "emoji": "🇦🇬",
+        "country": "Antígua e Barbuda",
+        "price": 69.90
+      },
+      {
+        "emoji": "🇹🇫",
+        "country": "Antilhas Francesas",
+        "price": 69.90
+      },
+      {
+        "emoji": "🇳🇱",
+        "country": "Antilhas Holandesas",
+        "price": 69.90
+      },
+      {
+        "emoji": "🇦🇷",
+        "country": "Argentina",
+        "price": 69.90
+      },
+      {
+        "emoji": "🇦🇼",
+        "country": "Aruba",
+        "price": 69.90
+      },
+      {
+        "emoji": "🇧🇸",
+        "country": "Bahamas",
+        "price": 69.90
+      },
+      {
+        "emoji": "🇧🇧",
+        "country": "Barbados",
+        "price": 49.90
+      },
+      {
+        "emoji": "🇧🇿",
+        "country": "Belize",
+        "price": 49.90
+      },
+      {
+        "emoji": "🇧🇲",
+        "country": "Bermudas",
+        "price": 49.90
+      },
+      {
+        "emoji": "🇧🇴",
+        "country": "Bolívia",
+        "price": 49.90
+      },
+      {
+        "emoji": "🇨🇦",
+        "country": "Canadá",
+        "price": 49.90
+      },
+      {
+        "emoji": "🇨🇱",
+        "country": "Chile",
+        "price": 49.90
+      },
+      {
+        "emoji": "🇨🇴",
+        "country": "Colômbia",
+        "price": 59.90
+      },
+      {
+        "emoji": "🇨🇷",
+        "country": "Costa Rica",
+        "price": 59.90
+      },
+      {
+        "emoji": "🇨🇺",
+        "country": "Cuba",
+        "dataAllowance": "5 MB",
+        "price": 59.90
+      },
+      {
+        "emoji": "🇸🇻",
+        "country": "El Salvador",
+        "price": 59.90
+      },
+      {
+        "emoji": "🇪🇨",
+        "country": "Equador",
+        "price": 59.90
+      },
+      {
+        "emoji": "🇺🇸",
+        "country": "Estados Unidos",
+        "price": 59.90
+      },
+      {
+        "emoji": "🇬🇩",
+        "country": "Granada",
+        "price": 59.90
+      },
+      {
+        "emoji": "🇬🇹",
+        "country": "Guatemala",
+        "price": 59.90
+      },
+      {
+        "emoji": "🇬🇾",
+        "country": "Guiana",
+        "price": 59.90
+      },
+      {
+        "emoji": "🇭🇹",
+        "country": "Haiti",
+        "price": 59.90
+      },
+      {
+        "emoji": "🇭🇳",
+        "country": "Honduras",
+        "price": 99.90
+      },
+      {
+        "emoji": "🇰🇾",
+        "country": "Ilhas Cayman",
+        "price": 99.90
+      },
+      {
+        "emoji": "🇩🇲",
+        "country": "Ilhas Dominica",
+        "price": 99.90
+      },
+      {
+        "emoji": "🇲🇸",
+        "country": "Ilhas Montserrat",
+        "price": 99.90
+      },
+      {
+        "emoji": "🇹🇨",
+        "country": "Ilhas Turks e Caicos",
+        "price": 99.90
+      },
+      {
+        "emoji": "🇻🇬",
+        "country": "Ilhas Virgens Britanicas",
+        "price": 99.90
+      },
+      {
+        "emoji": "🇯🇲",
+        "country": "Jamaica",
+        "price": 99.90
+      },
+      {
+        "emoji": "🇲🇽",
+        "country": "México",
+        "price": 99.90
+      },
+      {
+        "emoji": "🇳🇮",
+        "country": "Nicarágua",
+        "price": 99.90
+      },
+      {
+        "emoji": "🇵🇦",
+        "country": "Panamá",
+        "price": 99.90
+      },
+      {
+        "emoji": "🇵🇾",
+        "country": "Paraguai",
+        "price": 99.90
+      },
+      {
+        "emoji": "🇵🇪",
+        "country": "Peru",
+        "price": 99.90
+      },
+      {
+        "emoji": "🇵🇷",
+        "country": "Porto Rico",
+        "price": 99.90
+      },
+      {
+        "emoji": "🇩🇴",
+        "country": "República Dominicana",
+        "price": 99.90
+      },
+      {
+        "emoji": "🇱🇨",
+        "country": "Santa Lúcia",
+        "price": 99.90
+      },
+      {
+        "emoji": "🇰🇳",
+        "country": "São Cristóvão e Névis",
+        "price": 89.90
+      },
+      {
+        "emoji": "🇻🇨",
+        "country": "St. Vincente e Granadinas",
+        "price": 89.90
+      },
+      {
+        "emoji": "🇸🇷",
+        "country": "Suriname",
+        "price": 89.90
+      },
+      {
+        "emoji": "🇹🇹",
+        "country": "Trinidad e Tobago",
+        "price": 89.90
+      },
+      {
+        "emoji": "🇺🇾",
+        "country": "Uruguai",
+        "price": 89.90
+      },
+      {
+        "emoji": "🇻🇪",
+        "country": "Venezuela",
+        "price": 89.90
+      }
+    ]
   }
 ]

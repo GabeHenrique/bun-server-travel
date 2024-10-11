@@ -18,7 +18,8 @@ import plansR from "./routes/users/me/plans";
 import { Plan } from "./utils/types";
 import offers from "./routes/offers";
 import upgrade from "./routes/offers/upgrade";
-import countries from "./routes/countries";
+import countries from "./routes/product/countries";
+import products from "./routes/product";
 
 const rawArgs = Bun.argv.slice(2);
 const args = yargs(rawArgs);
@@ -165,6 +166,7 @@ downgradeFee(router);
 subscribe(router);
 upgrade(router);
 countries(router);
+products(router)
 
 app.use((req, res, next) => {
   console.log();

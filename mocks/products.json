@@ -1,0 +1,77 @@
+[
+  {
+    "id": "TRAVEL5GB",
+    "name": "Travel",
+    "displayName": "Travel",
+    "minimalValue": 29.90,
+    "dataQuota": {
+      "max": 5,
+      "unit": "gigabyte",
+      "unlimited": false
+    },
+    "voiceQuota": {
+      "max": 200,
+      "unit": "minute",
+      "unlimited": false
+    },
+    "smsQuota": {
+      "max": 0,
+      "unit": "message",
+      "unlimited": true
+    },
+    "validityPeriod": {
+      "unit": "day",
+      "value": 30
+    }
+  },
+  {
+    "id": "TRAVEL10GB",
+    "name": "Travel",
+    "displayName": "Travel",
+    "minimalValue": 59.90,
+    "dataQuota": {
+      "max": 10,
+      "unit": "gigabyte",
+      "unlimited": false
+    },
+    "voiceQuota": {
+      "max": 200,
+      "unit": "minute",
+      "unlimited": false
+    },
+    "smsQuota": {
+      "max": 0,
+      "unit": "message",
+      "unlimited": true
+    },
+    "validityPeriod": {
+      "unit": "day",
+      "value": 30
+    }
+  },
+  {
+    "id": "TRAVEL20GB",
+    "name": "Travel",
+    "displayName": "Travel",
+    "minimalValue": 99.90,
+    "dataQuota": {
+      "max": 20,
+      "unit": "gigabyte",
+      "unlimited": false
+    },
+    "voiceQuota": {
+      "max": 200,
+      "unit": "minute",
+      "unlimited": false
+    },
+    "smsQuota": {
+      "max": 0,
+      "unit": "message",
+      "unlimited": true
+    },
+    "validityPeriod": {
+      "unit": "day",
+      "value": 30
+    }
+  }
+]
