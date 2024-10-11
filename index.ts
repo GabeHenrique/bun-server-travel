@@ -18,6 +18,7 @@ import plansR from "./routes/users/me/plans";
 import { Plan } from "./utils/types";
 import offers from "./routes/offers";
 import upgrade from "./routes/offers/upgrade";
+import countries from "./routes/countries";
 
 const rawArgs = Bun.argv.slice(2);
 const args = yargs(rawArgs);
@@ -128,7 +129,6 @@ const plans: Plan[] = [
     name: "1 Plano com Incluso Mundo e dependente com Europa",
     file: "mocks/plans/plan1.inc1mun+avu1eu+dep.json",
   },
-
 ];
 
 const PORT = 3001;
@@ -160,10 +160,11 @@ offers(router);
 // dynamic
 cancel(router);
 cancellationFee(router);
-downgrade(router)
-downgradeFee(router)
+downgrade(router);
+downgradeFee(router);
 subscribe(router);
 upgrade(router);
+countries(router);
 
 app.use((req, res, next) => {
   console.log();

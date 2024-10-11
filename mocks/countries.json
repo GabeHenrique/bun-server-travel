@@ -1,0 +1,223 @@
+[
+  {
+    "emoji": "🇦🇮",
+    "country": "Anguilla",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇦🇬",
+    "country": "Antígua e Barbuda",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇹🇫",
+    "country": "Antilhas Francesas",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇳🇱",
+    "country": "Antilhas Holandesas",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇦🇷",
+    "country": "Argentina",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇦🇼",
+    "country": "Aruba",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇧🇸",
+    "country": "Bahamas",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇧🇧",
+    "country": "Barbados",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇧🇿",
+    "country": "Belize",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇧🇲",
+    "country": "Bermudas",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇧🇴",
+    "country": "Bolívia",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇨🇦",
+    "country": "Canadá",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇨🇱",
+    "country": "Chile",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇨🇴",
+    "country": "Colômbia",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇨🇷",
+    "country": "Costa Rica",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇨🇺",
+    "country": "Cuba",
+    "dataAllowance": "5 MB",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇸🇻",
+    "country": "El Salvador",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇪🇨",
+    "country": "Equador",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇺🇸",
+    "country": "Estados Unidos",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇬🇩",
+    "country": "Granada",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇬🇹",
+    "country": "Guatemala",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇬🇾",
+    "country": "Guiana",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇭🇹",
+    "country": "Haiti",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇭🇳",
+    "country": "Honduras",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇰🇾",
+    "country": "Ilhas Cayman",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇩🇲",
+    "country": "Ilhas Dominica",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇲🇸",
+    "country": "Ilhas Montserrat",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇹🇨",
+    "country": "Ilhas Turks e Caicos",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇻🇬",
+    "country": "Ilhas Virgens Britanicas",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇯🇲",
+    "country": "Jamaica",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇲🇽",
+    "country": "México",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇳🇮",
+    "country": "Nicarágua",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇵🇦",
+    "country": "Panamá",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇵🇾",
+    "country": "Paraguai",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇵🇪",
+    "country": "Peru",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇵🇷",
+    "country": "Porto Rico",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇩🇴",
+    "country": "República Dominicana",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇱🇨",
+    "country": "Santa Lúcia",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇰🇳",
+    "country": "São Cristóvão e Névis",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇻🇨",
+    "country": "St. Vincente e Granadinas",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇸🇷",
+    "country": "Suriname",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇹🇹",
+    "country": "Trinidad e Tobago",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇺🇾",
+    "country": "Uruguai",
+    "valueByGB": 12.9
+  },
+  {
+    "emoji": "🇻🇪",
+    "country": "Venezuela",
+    "valueByGB": 12.9
+  }
+]
